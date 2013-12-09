@@ -1,0 +1,297 @@
+/*
+====================================================================================================
+Name:			GPanel / Metabox Stylesheet
+Author: 		Pavel Richter / Grand Pixels
+Author URI: 	http://grandpixels.com
+Copyright:      Copyright (c) 2013, Grand Pixels
+====================================================================================================
+*/
+
+/*
+====================================================================================================
+Metabox Common
+====================================================================================================
+*/
+
+/* Post Formats - Hide Metaboxes */
+#gp-metabox-audio,
+#gp-metabox-gallery,
+#gp-metabox-video { display: none; }
+
+/* Global */
+.postbox .gp-block *,
+.postbox .gp-block *:after,
+.postbox .gp-block *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+
+/* Clearfix */
+.clearfix:after,
+.ui-helper-clearfix:after { content: ""; display: block; height: 0; clear: both; visibility: hidden; font-size: 0; }
+* html .clearfix { zoom: 1; }
+*:first-child+html .clearfix { zoom: 1; }
+
+/*
+====================================================================================================
+Metabox
+====================================================================================================
+*/
+
+/* Metabox > Blocks */
+.postbox .gp-block { width: 100%; position: relative; padding: 15px 0; border-bottom: 1px solid #e1e1e1; }
+.postbox .gp-block:last-child { border-bottom: none; }
+.postbox .gp-block .gp-label { float: left; width: 20%; }
+.postbox .gp-block .gp-field { float: right; width: 80%; }
+
+/* Metabox > Transitions */
+.postbox .gp-block a,
+.postbox .gp-block input,
+.postbox .gp-block textarea { -webkit-transition: all 0.3s linear; -moz-transition: all 0.3s linear; -o-transition: all 0.3s linear; -ms-transition: all 0.3s linear; transition: all 0.3s linear; }
+
+/* Metabox > Label */
+.postbox .gp-block .gp-label label { float: left; font-weight: bold; padding: 5px 0; }
+
+/* Metabox > Fields */
+.postbox .gp-block input[type="text"],
+.postbox .gp-block input[type="file"],
+.postbox .gp-block input[type="password"],
+.postbox .gp-block input[type="email"],
+.postbox .gp-block input[type="date"],
+.postbox .gp-block input[type="datetime"],
+.postbox .gp-block input[type="number"],
+.postbox .gp-block input[type="search"],
+.postbox .gp-block input[type="tel"],
+.postbox .gp-block input[type="time"],
+.postbox .gp-block input[type="url"],
+.postbox .gp-block button,
+.postbox .gp-block textarea,
+.postbox .gp-block select {
+	float: left;
+	width: 67%;
+	margin: 0 1% 0 0;
+	padding: 5px 1%;
+	background: #fcfcff !important;
+	border: 1px solid #d6d6da !important;
+	color: #7d828c;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+.postbox .gp-block input[type="text"]:focus,
+.postbox .gp-block input[type="file"]:focus,
+.postbox .gp-block input[type="password"]:focus,
+.postbox .gp-block input[type="email"]:focus,
+.postbox .gp-block input[type="date"]:focus,
+.postbox .gp-block input[type="datetime"]:focus,
+.postbox .gp-block input[type="number"]:focus,
+.postbox .gp-block input[type="search"]:focus,
+.postbox .gp-block input[type="tel"]:focus,
+.postbox .gp-block input[type="time"]:focus,
+.postbox .gp-block input[type="url"]:focus,
+.postbox .gp-block button:focus,
+.postbox .gp-block textarea:focus,
+.postbox .gp-block select:focus {
+	background: white !important;
+	outline: none;
+	color: #646973;
+	border: 1px solid #c2c2c6 !important;
+}
+
+.postbox .gp-block input[type="checkbox"] { margin-top: 5px; }
+.postbox .gp-block textarea { min-height: 100px; }
+.postbox .gp-block select { padding: 0; }
+.postbox .gp-block input[type="file"] { padding: 0 2% 0 0 !important; margin-bottom: 8px; }
+.postbox .gp-block .gp-clone input { margin-bottom: 8px; }
+.postbox .gp-block input.gp-picker { width: 160px; }
+.postbox .gp-block .miniColors-trigger { margin: 2px 0 0; }
+.postbox .gp-block div.gp-drag-drop { background: #f0f0f0; width: 99.2%; }
+
+/* Metabox > Buttons > Button Primary */
+.postbox .gp-block .gp-button-primary { 
+	float: left;
+	padding: 6px 10px 6px;
+	font: 12px "Arial", Helvetica, sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+	background: #464b55 url("../images/bg-button.png") left top repeat-x;
+	border: none;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	cursor: pointer;
+	color: white;
+}
+
+.postbox .gp-block .gp-button-primary:hover { 
+	color: white;
+	background: #464b55 url("../images/bg-button.png") left bottom repeat-x;
+}
+
+/* Metabox > Buttons > Button Secondary */
+.postbox .gp-block .gp-button-secondary { 
+	float: left;
+	padding: 6px 10px 6px;
+	font: 12px "Arial", Helvetica, sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+	background: #21759b url("../images/bg-button.png") left top repeat-x;
+	border: none;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+	cursor: pointer;
+	color: white;
+}
+
+.postbox .gp-block .gp-button-secondary:hover { 
+	color: white;
+	background: #d54e21 url("../images/bg-button.png") left bottom repeat-x !important;
+}
+
+/* Metabox > Buttons > Add, Remmove Clone */
+.postbox .gp-block .gp-field .add-clone { position: absolute; top: 15px; right: 0; }
+.postbox .gp-block .gp-field .gp-add-file { position: absolute; top: 15px; right: 0; padding: 4px 10px 4px; }
+
+/* Metabox > Buttons > Plupload Button Fix */
+.postbox #gp_plupload-container input.button { float: none !important; }
+
+/* Metabox > Description */
+.postbox .gp-block p.description { clear: both; font-size: 11px; line-height: 14px; padding: 4px 0 0; }
+
+/*
+====================================================================================================
+Metabox Side (Right Column)
+====================================================================================================
+*/
+
+#postbox-container-1 .postbox .gp-block { padding: 0; border-bottom: 0; }
+#postbox-container-1 .postbox .gp-block .gp-label { width: 100%; }
+#postbox-container-1 .postbox .gp-block .gp-field { float: left; width: 100%; }
+
+#postbox-container-1 .postbox .gp-block input[type="text"],
+#postbox-container-1 .postbox .gp-block input[type="file"],
+#postbox-container-1 .postbox .gp-block input[type="password"],
+#postbox-container-1 .postbox .gp-block input[type="email"],
+#postbox-container-1 .postbox .gp-block input[type="date"],
+#postbox-container-1 .postbox .gp-block input[type="datetime"],
+#postbox-container-1 .postbox .gp-block input[type="number"],
+#postbox-container-1 .postbox .gp-block input[type="search"],
+#postbox-container-1 .postbox .gp-block input[type="tel"],
+#postbox-container-1 .postbox .gp-block input[type="time"],
+#postbox-container-1 .postbox .gp-block input[type="url"],
+#postbox-container-1 .postbox .gp-block button,
+#postbox-container-1 .postbox .gp-block textarea,
+#postbox-container-1 .postbox .gp-block select { width: 100%; }
+
+#postbox-container-1 .postbox .gp-block p.description { border-bottom: 1px solid #e1e1e1; padding: 4px 0 8px; }
+
+/*
+====================================================================================================
+Metabox Normal (Left Column)
+====================================================================================================
+*/
+
+#postbox-container-2 .postbox {  }
+
+/* Media Queries */
+@media only screen and (max-width: 850px) {
+	
+	#postbox-container-2 .postbox .gp-block { padding: 0; border-bottom: 0; }
+	#postbox-container-2 .postbox .gp-block .gp-label { width: 100%; }
+	#postbox-container-2 .postbox .gp-block .gp-field { float: left; width: 100%; }
+	
+	#postbox-container-2 .postbox .gp-block input[type="text"],
+	#postbox-container-2 .postbox .gp-block input[type="file"],
+	#postbox-container-2 .postbox .gp-block input[type="password"],
+	#postbox-container-2 .postbox .gp-block input[type="email"],
+	#postbox-container-2 .postbox .gp-block input[type="date"],
+	#postbox-container-2 .postbox .gp-block input[type="datetime"],
+	#postbox-container-2 .postbox .gp-block input[type="number"],
+	#postbox-container-2 .postbox .gp-block input[type="search"],
+	#postbox-container-2 .postbox .gp-block input[type="tel"],
+	#postbox-container-2 .postbox .gp-block input[type="time"],
+	#postbox-container-2 .postbox .gp-block input[type="url"],
+	#postbox-container-2 .postbox .gp-block button,
+	#postbox-container-2 .postbox .gp-block textarea,
+	#postbox-container-2 .postbox .gp-block select { width: 100%; }
+	
+	#postbox-container-2 .postbox .gp-block input.gp-picker { width: 160px; }
+	
+}
+
+/*
+====================================================================================================
+Uploaded Images
+====================================================================================================
+*/
+
+.gp-images { overflow: visible; }
+.gp-images li {
+	float: left;
+	width: 162px;
+	height: 217px;
+	margin: 0 10px 10px 0;
+	text-align: center;
+	border: 1px solid #dcdcdc;
+	background: white;
+	cursor: move;
+	position: relative;
+	-webkit-box-shadow: 0 0 7px #cccccc;
+	-moz-box-shadow: 0 0 7px #cccccc;
+	box-shadow: 0 0 7px #cccccc;
+}
+.gp-images img { float: left; margin: 5px; width: 150px; height: 150px; }
+.gp-image-bar {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 60px;
+	color: #198caf;
+	padding: 0;
+	font-size: 11px;
+	text-align: center;
+}
+.gp-image-bar a { color: #198caf; }
+.gp-image-bar a:hover { color: #cd503c; }
+
+.gp-image-title {
+	height: 30px;
+	padding: 5px 10px 0;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+.gp-image-edit {
+	height: 30px;
+	padding: 5px 10px 0;
+	border-top: 1px solid #e6e6e6;
+	background: #fafafa;
+}
+
+
+/* Plupload */
+div.gp-drag-drop {
+	border: 4px dashed #ddd;
+	height: 200px;
+}
+
+div.gp-image-uploading-bar {
+	position: absolute;
+	width: 100%;
+	height: 0%;
+	bottom: 0;
+}
+div.gp-image-uploading-status {
+	position: absolute;
+}
+li.gp-image-error {
+	border: 3px solid #c00;
+	background: #903838;
+}
+.gp-image-uploading-status .gp-loader {
+	width: 32px;
+	height: 32px;
+	top: 59px;
+	left: 59px;
+	position: relative;
+}

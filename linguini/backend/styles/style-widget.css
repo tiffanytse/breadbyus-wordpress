@@ -1,0 +1,72 @@
+/*
+====================================================================================================
+Name:			GPanel / Widget Stylesheet
+Author: 		Pavel Richter / Grand Pixels
+Author URI: 	http://grandpixels.com
+Copyright:      Copyright (c) 2013, Grand Pixels
+====================================================================================================
+*/
+
+/* Global */
+.widget .widget-content *,
+.widget .widget-content *:after,
+.widget .widget-content *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+
+/*
+====================================================================================================
+Widget
+====================================================================================================
+*/
+
+/* Widget > Label */
+.widget .widget-content label { font-weight: bold; }
+
+/* Widget > Fields */
+.widget .widget-content input[type="text"],
+.widget .widget-content input[type="file"],
+.widget .widget-content input[type="password"],
+.widget .widget-content input[type="email"],
+.widget .widget-content input[type="date"],
+.widget .widget-content input[type="datetime"],
+.widget .widget-content input[type="number"],
+.widget .widget-content input[type="search"],
+.widget .widget-content input[type="tel"],
+.widget .widget-content input[type="time"],
+.widget .widget-content input[type="url"],
+.widget .widget-content button,
+.widget .widget-content textarea,
+.widget .widget-content select {
+	width: 100%;
+	margin: 5px 0 0;
+	padding: 5px 1%;
+	background: #fcfcff !important;
+	border: 1px solid #d6d6da !important;
+	color: #7d828c;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+}
+
+.widget .widget-content input[type="text"]:focus,
+.widget .widget-content input[type="file"]:focus,
+.widget .widget-content input[type="password"]:focus,
+.widget .widget-content input[type="email"]:focus,
+.widget .widget-content input[type="date"]:focus,
+.widget .widget-content input[type="datetime"]:focus,
+.widget .widget-content input[type="number"]:focus,
+.widget .widget-content input[type="search"]:focus,
+.widget .widget-content input[type="tel"]:focus,
+.widget .widget-content input[type="time"]:focus,
+.widget .widget-content input[type="url"]:focus,
+.widget .widget-content button:focus,
+.widget .widget-content textarea:focus,
+.widget .widget-content select:focus {
+	background: white !important;
+	outline: none;
+	color: #646973;
+	border: 1px solid #c2c2c6 !important;
+}
+
+.widget .widget-content select { padding: 0; }
+.widget .widget-content input[type="checkbox"] { margin: 2px 5px 0 0; }
+.widget .widget-content textarea { height: 10em; }

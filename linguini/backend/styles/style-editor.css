@@ -1,0 +1,53 @@
+/*
+====================================================================================================
+Name:			GPanel / Editor Stylesheet
+Author: 		Pavel Richter / Grand Pixels
+Author URI: 	http://grandpixels.com
+Copyright:      Copyright (c) 2013, Grand Pixels
+====================================================================================================
+*/
+
+/* Headings */
+#tinymce.wp-editor h1,
+#tinymce.wp-editor h2,
+#tinymce.wp-editor h3,
+#tinymce.wp-editor h4,
+#tinymce.wp-editor h5,
+#tinymce.wp-editor h6 { font-family: 'Open Sans Condensed', Arial, Helvetica, sans-serif !important; font-weight: normal !important; }
+
+#tinymce.wp-editor h1,
+#tinymce.wp-editor h2,
+#tinymce.wp-editor h3,
+#tinymce.wp-editor h4,
+#tinymce.wp-editor h5,
+#tinymce.wp-editor h6 { margin: 0.2em 0 0.4em; line-height: 1.1; }
+#tinymce.wp-editor h1 { font-size: 4.0em; }
+#tinymce.wp-editor h2 { font-size: 3.2em; }
+#tinymce.wp-editor h3 { font-size: 2.6em; }
+#tinymce.wp-editor h4 { font-size: 2.2em; }
+#tinymce.wp-editor h5 { font-size: 2.0em; }
+#tinymce.wp-editor h6 { font-size: 1.8em; }
+
+/* Subheadings */
+#tinymce.wp-editor h1 small,
+#tinymce.wp-editor h2 small,
+#tinymce.wp-editor h3 small,
+#tinymce.wp-editor h4 small,
+#tinymce.wp-editor h5 small,
+#tinymce.wp-editor h6 small { font-size: 55%; font-weight: normal; opacity: .8; }
+#tinymce.wp-editor h1 small.block,
+#tinymce.wp-editor h2 small.block,
+#tinymce.wp-editor h3 small.block,
+#tinymce.wp-editor h4 small.block,
+#tinymce.wp-editor h5 small.block,
+#tinymce.wp-editor h6 small.block { display: block; }
+
+#tinymce.wp-editor .sub-heading { margin-top: 0; font-weight: normal; opacity: .8; }
+
+/* Blockquotes */
+#tinymce.wp-editor blockquote { margin: 0 0 1em; padding: 1em; }
+#tinymce.wp-editor blockquote cite { display: block; margin: 0.5em 0 0; }
+#tinymce.wp-editor blockquote cite:before { content: "\2013 \00A0"; }
+
+body#tinymce.wp-editor { font-family: 'Arial', Helvetica, sans-serif; margin: 10px; }
+#tinymce.wp-editor a { color: #4CA6CF; }

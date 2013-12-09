@@ -1,0 +1,141 @@
+==================================================
+Linguini Changelog
+==================================================
+----------------------------------------------
+Version 2.0.3 (14 october 2013)
+----------------------------------------------
+Improved iPad, iPhone and iPod scrolling.
+Added reCaptcha responsive styles.
+Fixed Lightbox shortcode.
+Fixed minor bugs.
+----------------------------------------
+Edited Files
+----------------------------------------
+backend/shortcodes/short-codes.php
+functions.php
+style.css
+style.php
+taxonomy-category-event.php
+----------------------------------------------
+Version 2.0.2 (11 october 2013)
+----------------------------------------------
+Improved speed of the backend.
+Removed function to getting notices about theme updates. Theme update notices now throught Envato Toolkit https://github.com/envato/envato-wordpress-toolkit.
+Fixed sidebar bugs in templates.
+Fixed minor bugs.
+----------------------------------------
+Edited Files
+----------------------------------------
+backend/inits/init-functions.php
+backend/inits/init-options.php
+-- REM -- backend/inits/init-update.php
+backend/styles/style.css
+-- NEW -- backend/styles/style.min.css
+backend/styles/style-components.css
+-- NEW -- backend/styles/style-components.min.css
+backend/styles/style-editor.css
+-- NEW -- backend/styles/style-editor.min.css
+backend/styles/style-metabox.css
+-- NEW -- backend/styles/style-metabox.min.css
+backend/styles/style-widget.css
+-- NEW -- backend/styles/style-widget.min.css
+backend/init-gpanel.php
+languages/default.mo
+languages/default.po
+404.php
+archive.php
+content-quote.php
+functions.php
+header.php
+index.php
+loop-menu.php
+loop-menu-all.php
+loop-menu-categories.php
+loop-menu-single.php
+page.php
+search.php
+sidebar.php
+sidebar-blog.php
+sidebar-contact.php
+sidebar-event.php
+sidebar-gallery.php
+sidebar-menu-breakfast.php
+sidebar-menu-dinner.php
+sidebar-menu-drink.php
+sidebar-menu-food.php
+sidebar-menu-lunch.php
+sidebar-menu-menu.php
+sidebar-menu-wine.php
+sidebar-reservation.php
+sidebar-shop.php
+sidebar-video.php
+single.php
+single-event.php
+single-gallery.php
+single-menu.php
+single-menu-breakfast.php
+single-menu-dinner.php
+single-menu-drink.php
+single-menu-food.php
+single-menu-lunch.php
+single-menu-wine.php
+single-video.php
+style.css
+style.php
+taxonomy-category-event.php
+taxonomy-category-gallery.php
+taxonomy-category-video.php
+taxonomy-menu-breakfast-categories.php
+taxonomy-menu-dinner-categories.php
+taxonomy-menu-drink-categories.php
+taxonomy-menu-food-categories.php
+taxonomy-menu-lunch-categories.php
+taxonomy-menu-type.php
+taxonomy-menu-wine-categories.php
+template-archives.php
+template-contact.php
+template-event.php
+template-event-past.php
+template-full.php
+template-gallery.php
+template-menu.php
+template-menu-all.php
+template-menu-breakfast.php
+template-menu-breakfast-all.php
+template-menu-dinner.php
+template-menu-dinner-all.php
+template-menu-drink.php
+template-menu-drink-all.php
+template-menu-food.php
+template-menu-food-all.php
+template-menu-lunch.php
+template-menu-lunch-all.php
+template-menu-wine.php
+template-menu-wine-all.php
+template-reservation.php
+template-video.php
+toolbar-right.php
+woocommerce.php
+----------------------------------------------
+Version 2.0.1 (02 october 2013)
+----------------------------------------------
+Added maxDate to DatePicker options (Settings in "Appearance > Theme Options > Forms (tab) > Reservation Form > Datepicker Max Date").
+Added shop toolbar.
+Fixed WooCommerce layout and some styles.
+Fixed minor bugs.
+----------------------------------------
+Edited Files
+----------------------------------------
+backend/inits/init-options.php
+languages/default.mo
+languages/default.po
+functions.php
+header.php
+style.css
+style.php
+-- NEW -- toolbar-shop
+woocommerce.php
+----------------------------------------------
+Version 2.0.0 (18 September 2013)
+----------------------------------------------
+Initial release of a new version.

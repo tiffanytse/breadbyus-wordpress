@@ -1,0 +1,4479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Linguini\n"
+"POT-Creation-Date: 2013-10-14 13:38+0100\n"
+"PO-Revision-Date: 2013-10-14 13:39+0100\n"
+"Last-Translator: Pavel <pavel@grandpixels.com>\n"
+"Language-Team: Grand Pixels <pavel@grandpixels.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18
+msgid "Page not Found"
+msgstr ""
+
+#: ../404.php:32
+msgid "Sorry, this page was not found."
+msgstr ""
+
+#: ../404.php:34
+#, php-format
+msgid ""
+"You can try to return to the <a title=\"%1$s homepage\" href=\"%2$s\">%1$s "
+"homepage</a> and start fresh."
+msgstr ""
+
+#: ../archive.php:60
+#, php-format
+msgid "All posts in %s"
+msgstr ""
+
+#: ../archive.php:67
+#, php-format
+msgid "All posts tagged %s"
+msgstr ""
+
+#: ../archive.php:74
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: ../archive.php:81 ../archive.php:88 ../archive.php:95
+msgid "Archive for"
+msgstr ""
+
+#: ../archive.php:81
+msgid "F jS, Y"
+msgstr ""
+
+#: ../archive.php:88
+msgid "F, Y"
+msgstr ""
+
+#: ../archive.php:95
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:102
+#, php-format
+msgid "Archive for %s"
+msgstr ""
+
+#: ../archive.php:109
+msgid "Blog archives"
+msgstr ""
+
+#: ../comments.php:24
+msgid "No comments"
+msgstr ""
+
+#: ../comments.php:25
+msgid "1 comment"
+msgstr ""
+
+#: ../comments.php:26
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../comments.php:54
+msgid "You can be the first one to leave a comment."
+msgstr ""
+
+#: ../comments.php:71
+msgid "&lsaquo; Previous"
+msgstr ""
+
+#: ../comments.php:72
+msgid "Next &rsaquo;"
+msgstr ""
+
+#: ../comments.php:98
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../comments.php:99
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../comments.php:100
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../comments.php:101
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:102
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:103
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:105
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: ../comments.php:108 ../template-contact.php:312
+#: ../template-reservation.php:427
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:108 ../comments.php:109
+msgid "*"
+msgstr ""
+
+#: ../comments.php:109 ../template-contact.php:334
+#: ../template-reservation.php:455
+msgid "Email"
+msgstr ""
+
+#: ../comments.php:110
+msgid "Website"
+msgstr ""
+
+#: ../comments.php:113
+msgid "Comment"
+msgstr ""
+
+#: ../content-audio.php:87 ../content-audio.php:88 ../content-audio.php:153
+#: ../content-audio.php:154 ../content-gallery.php:73
+#: ../content-gallery.php:74 ../content-gallery.php:130
+#: ../content-gallery.php:131 ../content-standard.php:70
+#: ../content-standard.php:71 ../content-standard.php:126
+#: ../content-standard.php:127 ../content-video.php:74 ../content-video.php:75
+#: ../content-video.php:131 ../content-video.php:132
+msgid "Read more ..."
+msgstr ""
+
+#: ../date-event.php:56 ../functions.php:660
+#: ../backend/inits/init-functions.php:158
+msgid "January"
+msgstr ""
+
+#: ../date-event.php:59 ../functions.php:661
+#: ../backend/inits/init-functions.php:159
+msgid "February"
+msgstr ""
+
+#: ../date-event.php:62 ../functions.php:662
+#: ../backend/inits/init-functions.php:160
+msgid "March"
+msgstr ""
+
+#: ../date-event.php:65 ../functions.php:663
+#: ../backend/inits/init-functions.php:161
+msgid "April"
+msgstr ""
+
+#: ../date-event.php:68 ../date-event.php:121 ../functions.php:664
+#: ../backend/inits/init-functions.php:162
+msgid "May"
+msgstr ""
+
+#: ../date-event.php:71 ../functions.php:665
+#: ../backend/inits/init-functions.php:163
+msgid "June"
+msgstr ""
+
+#: ../date-event.php:74 ../functions.php:666
+#: ../backend/inits/init-functions.php:164
+msgid "July"
+msgstr ""
+
+#: ../date-event.php:77 ../functions.php:667
+#: ../backend/inits/init-functions.php:165
+msgid "August"
+msgstr ""
+
+#: ../date-event.php:80 ../functions.php:668
+#: ../backend/inits/init-functions.php:166
+msgid "September"
+msgstr ""
+
+#: ../date-event.php:83 ../functions.php:669
+#: ../backend/inits/init-functions.php:167
+msgid "October"
+msgstr ""
+
+#: ../date-event.php:86 ../functions.php:670
+#: ../backend/inits/init-functions.php:168
+msgid "November"
+msgstr ""
+
+#: ../date-event.php:89 ../functions.php:671
+#: ../backend/inits/init-functions.php:169
+msgid "December"
+msgstr ""
+
+#: ../date-event.php:109
+msgid "Jan"
+msgstr ""
+
+#: ../date-event.php:112
+msgid "Feb"
+msgstr ""
+
+#: ../date-event.php:115
+msgid "Mar"
+msgstr ""
+
+#: ../date-event.php:118
+msgid "Apr"
+msgstr ""
+
+#: ../date-event.php:124
+msgid "Jun"
+msgstr ""
+
+#: ../date-event.php:127
+msgid "Jul"
+msgstr ""
+
+#: ../date-event.php:130
+msgid "Aug"
+msgstr ""
+
+#: ../date-event.php:133
+msgid "Sep"
+msgstr ""
+
+#: ../date-event.php:136
+msgid "Oct"
+msgstr ""
+
+#: ../date-event.php:139
+msgid "Nov"
+msgstr ""
+
+#: ../date-event.php:142
+msgid "Dec"
+msgstr ""
+
+#: ../footer.php:112
+msgid "Copyright &copy;"
+msgstr ""
+
+#: ../functions.php:567 ../functions.php:627 ../template-contact.php:37
+#: ../template-reservation.php:40
+msgid "Please fill your name."
+msgstr ""
+
+#: ../functions.php:569 ../functions.php:630 ../template-contact.php:38
+#: ../template-reservation.php:42
+msgid "Please fill your email address."
+msgstr ""
+
+#: ../functions.php:570 ../functions.php:631 ../template-contact.php:39
+#: ../template-reservation.php:43
+msgid "Please fill the valid email address."
+msgstr ""
+
+#: ../functions.php:572 ../template-contact.php:40
+msgid "Please fill your message."
+msgstr ""
+
+#: ../functions.php:573
+msgid "Please fill valid captcha."
+msgstr ""
+
+#: ../functions.php:624 ../template-reservation.php:37
+msgid "Please select a date."
+msgstr ""
+
+#: ../functions.php:625 ../template-reservation.php:38
+msgid "Please fill the time."
+msgstr ""
+
+#: ../functions.php:626 ../template-reservation.php:39
+msgid "Please fill the number of persons."
+msgstr ""
+
+#: ../functions.php:628 ../template-reservation.php:41
+msgid "Please fill your phone number."
+msgstr ""
+
+#: ../functions.php:642 ../backend/inits/init-functions.php:140
+#: ../backend/widgets/widget-opening-hours.php:91
+msgid "Sunday"
+msgstr ""
+
+#: ../functions.php:643 ../backend/inits/init-functions.php:141
+#: ../backend/widgets/widget-opening-hours.php:55
+msgid "Monday"
+msgstr ""
+
+#: ../functions.php:644 ../backend/inits/init-functions.php:142
+#: ../backend/widgets/widget-opening-hours.php:61
+msgid "Tuesday"
+msgstr ""
+
+#: ../functions.php:645 ../backend/inits/init-functions.php:143
+#: ../backend/widgets/widget-opening-hours.php:67
+msgid "Wednesday"
+msgstr ""
+
+#: ../functions.php:646 ../backend/inits/init-functions.php:144
+#: ../backend/widgets/widget-opening-hours.php:73
+msgid "Thursday"
+msgstr ""
+
+#: ../functions.php:647 ../backend/inits/init-functions.php:145
+#: ../backend/widgets/widget-opening-hours.php:79
+msgid "Friday"
+msgstr ""
+
+#: ../functions.php:648 ../backend/inits/init-functions.php:146
+#: ../backend/widgets/widget-opening-hours.php:85
+msgid "Saturday"
+msgstr ""
+
+#: ../functions.php:651 ../backend/inits/init-functions.php:149
+msgid "Su"
+msgstr ""
+
+#: ../functions.php:652 ../backend/inits/init-functions.php:150
+msgid "Mo"
+msgstr ""
+
+#: ../functions.php:653 ../backend/inits/init-functions.php:151
+msgid "Tu"
+msgstr ""
+
+#: ../functions.php:654 ../backend/inits/init-functions.php:152
+msgid "We"
+msgstr ""
+
+#: ../functions.php:655 ../backend/inits/init-functions.php:153
+msgid "Th"
+msgstr ""
+
+#: ../functions.php:656 ../backend/inits/init-functions.php:154
+msgid "Fr"
+msgstr ""
+
+#: ../functions.php:657 ../backend/inits/init-functions.php:155
+msgid "Sa"
+msgstr ""
+
+#: ../functions.php:673 ../backend/inits/init-functions.php:171
+msgid "Next"
+msgstr ""
+
+#: ../functions.php:674 ../backend/inits/init-functions.php:172
+msgid "Prev"
+msgstr ""
+
+#: ../functions.php:786 ../functions.php:796 ../searchform.php:18
+#: ../toolbar-right.php:155 ../toolbar-right.php:156
+msgid "Search ..."
+msgstr ""
+
+#: ../functions.php:1224
+msgid "year"
+msgstr ""
+
+#: ../functions.php:1224
+msgid "years"
+msgstr ""
+
+#: ../functions.php:1225
+msgid "month"
+msgstr ""
+
+#: ../functions.php:1225
+msgid "months"
+msgstr ""
+
+#: ../functions.php:1226
+msgid "week"
+msgstr ""
+
+#: ../functions.php:1226
+msgid "weeks"
+msgstr ""
+
+#: ../functions.php:1227
+msgid "day"
+msgstr ""
+
+#: ../functions.php:1227
+msgid "days"
+msgstr ""
+
+#: ../functions.php:1228
+msgid "hour"
+msgstr ""
+
+#: ../functions.php:1228
+msgid "hours"
+msgstr ""
+
+#: ../functions.php:1229
+msgid "minute"
+msgstr ""
+
+#: ../functions.php:1229
+msgid "minutes"
+msgstr ""
+
+#: ../functions.php:1230
+msgid "second"
+msgstr ""
+
+#: ../functions.php:1230 ../functions.php:1258
+msgid "seconds"
+msgstr ""
+
+#: ../functions.php:1244
+msgid "sometime"
+msgstr ""
+
+#: ../functions.php:1261
+msgid " ago"
+msgstr ""
+
+#: ../functions.php:1290
+msgid "Share"
+msgstr ""
+
+#: ../functions.php:1297
+msgid "Tweet This"
+msgstr ""
+
+#: ../functions.php:1305
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../functions.php:1313
+msgid "Share on Google+"
+msgstr ""
+
+#: ../functions.php:1321
+msgid "Pin it"
+msgstr ""
+
+#: ../functions.php:1814
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions.php:1815 ../title.php:48
+msgid "[edit]"
+msgstr ""
+
+#: ../functions.php:1822
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../header.php:51
+msgid "Close"
+msgstr ""
+
+#: ../loop-menu-all.php:463 ../loop-menu-categories.php:421
+#, php-format
+msgid "No %1$s items were found."
+msgstr ""
+
+#: ../loop-menu-single.php:134 ../backend/posttypes/posttype-breakfast.php:164
+#: ../backend/posttypes/posttype-dinner.php:162
+#: ../backend/posttypes/posttype-drink.php:162
+#: ../backend/posttypes/posttype-food.php:162
+#: ../backend/posttypes/posttype-lunch.php:162
+#: ../backend/posttypes/posttype-menu.php:162
+#: ../backend/posttypes/posttype-wine.php:162
+msgid "Ingredients"
+msgstr ""
+
+#: ../loop-menu.php:197
+#, php-format
+msgid "No %1$s categories were found."
+msgstr ""
+
+#: ../meta.php:41 ../meta.php:73 ../single-event.php:137
+msgid "0"
+msgstr ""
+
+#: ../meta.php:41 ../meta.php:73 ../single-event.php:137
+msgid "1"
+msgstr ""
+
+#: ../meta.php:41 ../meta.php:73 ../single-event.php:137
+msgid "%"
+msgstr ""
+
+#: ../search.php:63
+#, php-format
+msgid "%s results for '%s'"
+msgstr ""
+
+#: ../search.php:74
+msgid "Nothing Found"
+msgstr ""
+
+#: ../search.php:209
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../single-event.php:165 ../template-reservation.php:393
+msgid "Time"
+msgstr ""
+
+#: ../single-event.php:179 ../single-event.php:194
+msgid "Venue"
+msgstr ""
+
+#: ../single-event.php:208
+msgid "Location"
+msgstr ""
+
+#: ../single-event.php:219 ../backend/inits/init-options.php:872
+msgid "Contact"
+msgstr ""
+
+#: ../single-event.php:230
+msgid "Status"
+msgstr ""
+
+#: ../single-event.php:241 ../backend/posttypes/posttype-breakfast.php:208
+#: ../backend/posttypes/posttype-dinner.php:206
+#: ../backend/posttypes/posttype-drink.php:206
+#: ../backend/posttypes/posttype-food.php:206
+#: ../backend/posttypes/posttype-lunch.php:206
+#: ../backend/posttypes/posttype-menu.php:206
+#: ../backend/posttypes/posttype-wine.php:206
+msgid "Price"
+msgstr ""
+
+#: ../taxonomy-category-event.php:529 ../template-archives.php:154
+#: ../template-event.php:550
+msgid "No upcoming events were found."
+msgstr ""
+
+#: ../taxonomy-category-gallery.php:150 ../template-archives.php:295
+#: ../template-gallery.php:155
+msgid "No galleries were found."
+msgstr ""
+
+#: ../taxonomy-category-video.php:142 ../template-archives.php:250
+#: ../template-video.php:155
+msgid "No videos were found."
+msgstr ""
+
+#: ../template-archives.php:82 ../backend/inits/init-options.php:774
+msgid "Pages"
+msgstr ""
+
+#: ../template-archives.php:99 ../backend/inits/init-options.php:522
+msgid "Posts"
+msgstr ""
+
+#: ../template-archives.php:120
+msgid "Upcoming Events"
+msgstr ""
+
+#: ../template-archives.php:171
+msgid "Past Events"
+msgstr ""
+
+#: ../template-archives.php:205 ../template-event-past.php:409
+msgid "No past events were found."
+msgstr ""
+
+#: ../template-archives.php:222 ../backend/inits/init-options.php:794
+#: ../backend/posttypes/posttype-video.php:26
+#: ../backend/posttypes/posttype-video.php:27
+msgid "Videos"
+msgstr ""
+
+#: ../template-archives.php:267 ../backend/inits/init-options.php:823
+#: ../backend/posttypes/posttype-gallery.php:26
+#: ../backend/posttypes/posttype-gallery.php:27
+msgid "Galleries"
+msgstr ""
+
+#: ../template-archives.php:312
+msgid "Archives by Cats"
+msgstr ""
+
+#: ../template-archives.php:333
+msgid "Archives by Month"
+msgstr ""
+
+#: ../template-archives.php:355
+msgid "Tags"
+msgstr ""
+
+#: ../template-contact.php:41 ../template-contact.php:295
+#: ../template-reservation.php:44 ../template-reservation.php:360
+msgid "Please fill the valid captcha."
+msgstr ""
+
+#: ../template-contact.php:140 ../template-reservation.php:180
+msgid "Name:"
+msgstr ""
+
+#: ../template-contact.php:141 ../template-reservation.php:181
+msgid "Phone:"
+msgstr ""
+
+#: ../template-contact.php:142 ../template-reservation.php:182
+msgid "Email:"
+msgstr ""
+
+#: ../template-contact.php:143 ../template-reservation.php:183
+msgid "Message:"
+msgstr ""
+
+#: ../template-contact.php:159 ../backend/inits/init-options.php:1219
+msgid "Contact Form"
+msgstr ""
+
+#: ../template-contact.php:275
+msgid ""
+"Thank you. Email has been sent. We will contact you as soon as possible."
+msgstr ""
+
+#: ../template-contact.php:286 ../template-reservation.php:348
+msgid "Sorry, an error occurred, email hasn't been sent."
+msgstr ""
+
+#: ../template-contact.php:306
+msgid "Contact form"
+msgstr ""
+
+#: ../template-contact.php:326 ../template-reservation.php:441
+msgid "Phone"
+msgstr ""
+
+#: ../template-contact.php:354 ../template-reservation.php:475
+msgid "Message"
+msgstr ""
+
+#: ../template-contact.php:375
+msgid "Send email"
+msgstr ""
+
+#: ../template-contact.php:378 ../template-reservation.php:499
+msgid "Required fields"
+msgstr ""
+
+#: ../template-home.php:357 ../backend/inits/init-options.php:538
+msgid "Recent posts"
+msgstr ""
+
+#: ../template-home.php:450 ../backend/inits/init-options.php:586
+msgid "Upcoming events"
+msgstr ""
+
+#: ../template-reservation.php:178
+msgid "Date and time:"
+msgstr ""
+
+#: ../template-reservation.php:179
+msgid "Number of persons:"
+msgstr ""
+
+#: ../template-reservation.php:199 ../backend/inits/init-options.php:1244
+msgid "Reservation Form"
+msgstr ""
+
+#: ../template-reservation.php:334
+msgid ""
+"Thank you. Email has been sent. Our staff will confirm you the booking by "
+"email."
+msgstr ""
+
+#: ../template-reservation.php:373
+msgid "Reservation information"
+msgstr ""
+
+#: ../template-reservation.php:379 ../backend/inits/init-options.php:463
+#: ../backend/posttypes/posttype-breakfast.php:210
+#: ../backend/posttypes/posttype-callout.php:204
+#: ../backend/posttypes/posttype-dinner.php:208
+#: ../backend/posttypes/posttype-drink.php:208
+#: ../backend/posttypes/posttype-event.php:283
+#: ../backend/posttypes/posttype-food.php:208
+#: ../backend/posttypes/posttype-gallery.php:187
+#: ../backend/posttypes/posttype-lunch.php:208
+#: ../backend/posttypes/posttype-menu.php:208
+#: ../backend/posttypes/posttype-slide.php:210
+#: ../backend/posttypes/posttype-video.php:194
+#: ../backend/posttypes/posttype-wine.php:208
+msgid "Date"
+msgstr ""
+
+#: ../template-reservation.php:407
+msgid "Number of persons"
+msgstr ""
+
+#: ../template-reservation.php:421
+msgid "Personal information"
+msgstr ""
+
+#: ../template-reservation.php:496
+msgid "Make a reservation"
+msgstr ""
+
+#: ../toolbar-right.php:27 ../toolbar-right.php:28
+#: ../backend/inits/init-options.php:958
+msgid "Twitter"
+msgstr ""
+
+#: ../toolbar-right.php:35 ../toolbar-right.php:36
+#: ../backend/inits/init-options.php:967
+msgid "Facebook"
+msgstr ""
+
+#: ../toolbar-right.php:43 ../toolbar-right.php:44
+#: ../backend/inits/init-options.php:976
+msgid "Google+"
+msgstr ""
+
+#: ../toolbar-right.php:51 ../toolbar-right.php:52
+#: ../backend/inits/init-options.php:985
+#: ../backend/inits/init-options.php:1030
+msgid "Pinterest"
+msgstr ""
+
+#: ../toolbar-right.php:59 ../toolbar-right.php:60
+#: ../backend/inits/init-options.php:994
+msgid "TripAdvisor"
+msgstr ""
+
+#: ../toolbar-right.php:67 ../toolbar-right.php:68
+#: ../backend/inits/init-options.php:1003
+msgid "Foursquare"
+msgstr ""
+
+#: ../toolbar-right.php:75 ../toolbar-right.php:76
+#: ../backend/inits/init-options.php:1012
+msgid "Yelp"
+msgstr ""
+
+#: ../toolbar-right.php:83 ../toolbar-right.php:84
+#: ../backend/inits/init-options.php:1021
+msgid "Xing"
+msgstr ""
+
+#: ../toolbar-right.php:91 ../toolbar-right.php:92
+#: ../backend/inits/init-options.php:1039
+msgid "Qype"
+msgstr ""
+
+#: ../toolbar-right.php:99 ../toolbar-right.php:100
+#: ../backend/inits/init-options.php:1048
+msgid "Zagat"
+msgstr ""
+
+#: ../toolbar-right.php:107 ../toolbar-right.php:108
+#: ../backend/inits/init-options.php:1057
+msgid "YouTube"
+msgstr ""
+
+#: ../toolbar-right.php:115 ../toolbar-right.php:116
+#: ../backend/inits/init-options.php:1066
+msgid "Vimeo"
+msgstr ""
+
+#: ../toolbar-right.php:123 ../toolbar-right.php:124
+#: ../backend/inits/init-options.php:1075
+msgid "Flickr"
+msgstr ""
+
+#: ../toolbar-right.php:131 ../toolbar-right.php:132
+#: ../backend/inits/init-options.php:1084
+msgid "Tumblr"
+msgstr ""
+
+#: ../toolbar-right.php:139 ../toolbar-right.php:140
+#: ../backend/inits/init-options.php:1093
+msgid "Instagram"
+msgstr ""
+
+#: ../toolbar-right.php:147 ../toolbar-right.php:148
+#: ../backend/inits/init-options.php:1102
+msgid "Amazon"
+msgstr ""
+
+#: ../toolbar-shop.php:25
+msgid "Login"
+msgstr ""
+
+#: ../toolbar-shop.php:29
+msgid "Register"
+msgstr ""
+
+#: ../toolbar-shop.php:39
+msgid "My Account"
+msgstr ""
+
+#: ../toolbar-shop.php:43
+msgid "Logout"
+msgstr ""
+
+#: ../toolbar-shop.php:55
+msgid "Shopping cart"
+msgstr ""
+
+#: ../toolbar-shop.php:63
+msgid "Checkout"
+msgstr ""
+
+#: ../backend/classes/class-fields.php:322
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../backend/classes/class-fields.php:328
+#: ../backend/classes/class-fields.php:533
+msgid "Delete"
+msgstr ""
+
+#: ../backend/classes/class-fields.php:329
+msgid "Upload Files"
+msgstr ""
+
+#: ../backend/classes/class-fields.php:330
+msgid "+ Add New File"
+msgstr ""
+
+#: ../backend/classes/class-fields.php:486
+msgid "Order Saved"
+msgstr ""
+
+#: ../backend/classes/class-fields.php:492
+#: ../backend/posttypes/posttype-gallery.php:149
+msgid "Upload Images"
+msgstr ""
+
+#: ../backend/classes/class-fields.php:493
+msgid "+ Add New Image"
+msgstr ""
+
+#: ../backend/classes/class-fields.php:534
+msgid "Edit"
+msgstr ""
+
+#: ../backend/classes/class-fields.php:667
+msgid "Drop Files Here"
+msgstr ""
+
+#: ../backend/classes/class-fields.php:668
+msgid "or"
+msgstr ""
+
+#: ../backend/classes/class-fields.php:669
+msgid "Select Files"
+msgstr ""
+
+#: ../backend/classes/class-metabox.php:227
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../backend/classes/class-metabox.php:265
+msgid "+"
+msgstr ""
+
+#: ../backend/classes/class-metabox.php:278
+msgid "&#8211;"
+msgstr ""
+
+#: ../backend/classes/class-taxonomy.php:73
+#: ../backend/classes/class-taxonomy.php:92
+#: ../backend/classes/class-taxonomy.php:179
+msgid "Image"
+msgstr ""
+
+#: ../backend/classes/class-taxonomy.php:78
+#: ../backend/classes/class-taxonomy.php:99
+msgid "Add / Change Image"
+msgstr ""
+
+#: ../backend/classes/class-taxonomy.php:79
+#: ../backend/classes/class-taxonomy.php:100
+msgid "Remove Image"
+msgstr ""
+
+#: ../backend/classes/class-twitter.php:157
+msgid "Missing Consumer Key - Check Settings"
+msgstr ""
+
+#: ../backend/classes/class-twitter.php:158
+msgid "Missing Consumer Secret - Check Settings"
+msgstr ""
+
+#: ../backend/classes/class-twitter.php:159
+msgid "Missing Access Token - Check Settings"
+msgstr ""
+
+#: ../backend/classes/class-twitter.php:160
+msgid "Missing Access Token Secret - Check Settings"
+msgstr ""
+
+#: ../backend/classes/class-twitter.php:161
+msgid "Missing Twitter Feed Screen Name - Check Settings"
+msgstr ""
+
+#: ../backend/inits/init-backend.php:26 ../backend/inits/init-backend.php:130
+#: ../backend/inits/init-backend.php:131
+msgid "Theme Options"
+msgstr ""
+
+#: ../backend/inits/init-backend.php:210
+msgid "Upload"
+msgstr ""
+
+#: ../backend/inits/init-backend.php:211
+msgid "Remove"
+msgstr ""
+
+#: ../backend/inits/init-backend.php:360
+msgid "Expecting a Numeric value! Please fix."
+msgstr ""
+
+#: ../backend/inits/init-backend.php:371
+msgid "Expecting comma separated numeric values"
+msgstr ""
+
+#: ../backend/inits/init-backend.php:377
+msgid "Expecting comma separated numeric values! Please fix."
+msgstr ""
+
+#: ../backend/inits/init-backend.php:404
+msgid "Invalid email! Please re-enter!"
+msgstr ""
+
+#: ../backend/inits/init-backend.php:406
+msgid "This setting field cannot be empty! Please enter a valid email address."
+msgstr ""
+
+#: ../backend/inits/init-backend.php:410
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ../backend/inits/init-backend.php:832
+msgid "Version "
+msgstr ""
+
+#: ../backend/inits/init-functions.php:239
+msgid "Colors"
+msgstr ""
+
+#: ../backend/inits/init-functions.php:301
+msgid "Background Color"
+msgstr ""
+
+#: ../backend/inits/init-functions.php:313
+msgid "Text Color"
+msgstr ""
+
+#: ../backend/inits/init-functions.php:325
+msgid "Primary Color"
+msgstr ""
+
+#: ../backend/inits/init-functions.php:337
+msgid "Secondary Color"
+msgstr ""
+
+#: ../backend/inits/init-functions.php:349
+msgid "Tertiary Color"
+msgstr ""
+
+#: ../backend/inits/init-functions.php:361
+msgid "Navigation Primary Color"
+msgstr ""
+
+#: ../backend/inits/init-functions.php:373
+msgid "Navigation Secondary Color"
+msgstr ""
+
+#: ../backend/inits/init-functions.php:442
+msgid ""
+"The Featured Image is an image that is chosen as the representative image "
+"for the post. Click the link above to upload the image for this post."
+msgstr ""
+
+#: ../backend/inits/init-navigation.php:25
+msgid "Primary navigation"
+msgstr ""
+
+#: ../backend/inits/init-options.php:25
+msgid "General Settings"
+msgstr ""
+
+#: ../backend/inits/init-options.php:26
+msgid "Styling"
+msgstr ""
+
+#: ../backend/inits/init-options.php:27
+msgid "Reading"
+msgstr ""
+
+#: ../backend/inits/init-options.php:28
+msgid "Socials"
+msgstr ""
+
+#: ../backend/inits/init-options.php:29
+msgid "Forms"
+msgstr ""
+
+#: ../backend/inits/init-options.php:30
+msgid "Tracking"
+msgstr ""
+
+#: ../backend/inits/init-options.php:58
+msgid "Logos"
+msgstr ""
+
+#: ../backend/inits/init-options.php:65
+msgid "Logo Image"
+msgstr ""
+
+#: ../backend/inits/init-options.php:66
+msgid ""
+"Upload a logo image. Upload an image and then click \"Select\" or \"Insert "
+"into Post\"."
+msgstr ""
+
+#: ../backend/inits/init-options.php:74
+msgid "@2x Logo Image"
+msgstr ""
+
+#: ../backend/inits/init-options.php:75
+msgid ""
+"Upload a @2x logo image for retina displays. Upload an image and then click "
+"\"Select\" or \"Insert into Post\"."
+msgstr ""
+
+#: ../backend/inits/init-options.php:83
+msgid "WordPress Login Logo Image"
+msgstr ""
+
+#: ../backend/inits/init-options.php:84
+msgid ""
+"Upload a WordPress login logo image. Upload an image and then click \"Select"
+"\" or \"Insert into Post\".<br /> <strong>Required size: 274 x 100 px.</"
+"strong>"
+msgstr ""
+
+#: ../backend/inits/init-options.php:92
+msgid "Icons"
+msgstr ""
+
+#: ../backend/inits/init-options.php:99
+msgid "Browser Favicon 32x32"
+msgstr ""
+
+#: ../backend/inits/init-options.php:100
+msgid ""
+"Upload a favicon in *.ico format. Upload an image and then click \"Select\" "
+"or \"Insert into Post\".<br /> <strong>Required size: 32 x 32 px. Required "
+"name: favicon.ico</strong>"
+msgstr ""
+
+#: ../backend/inits/init-options.php:108
+msgid "Apple Touch Icon Precomposed 57x57"
+msgstr ""
+
+#: ../backend/inits/init-options.php:109
+msgid ""
+"Upload a precomposed Apple touch icon in *.png format. Upload an image and "
+"then click \"Select\" or \"Insert into Post\".<br /> <strong>Required size: "
+"57 x 57 px. Required name: apple-touch-icon-precomposed.png</strong>"
+msgstr ""
+
+#: ../backend/inits/init-options.php:117
+msgid "Apple Touch Icon Precomposed 72x72"
+msgstr ""
+
+#: ../backend/inits/init-options.php:118
+msgid ""
+"Upload a precomposed Apple touch icon in *.png format. Upload an image and "
+"then click \"Select\" or \"Insert into Post\".<br /> <strong>Required size: "
+"72 x 72 px. Required name: apple-touch-icon-72x72-precomposed.png</strong>"
+msgstr ""
+
+#: ../backend/inits/init-options.php:126
+msgid "Apple Touch Icon Precomposed 114x114"
+msgstr ""
+
+#: ../backend/inits/init-options.php:127
+msgid ""
+"Upload a precomposed Apple touch icon in *.png format. Upload an image and "
+"then click \"Select\" or \"Insert into Post\".<br /> <strong>Required size: "
+"114 x 114 px. Required name: apple-touch-icon-114x114-precomposed.png</"
+"strong>"
+msgstr ""
+
+#: ../backend/inits/init-options.php:135
+msgid "Apple Touch Icon Precomposed 144x144"
+msgstr ""
+
+#: ../backend/inits/init-options.php:136
+msgid ""
+"Upload a precomposed Apple touch icon in *.png format. Upload an image and "
+"then click \"Select\" or \"Insert into Post\".<br /> <strong>Required size: "
+"144 x 144 px. Required name: apple-touch-icon-144x144-precomposed.png</"
+"strong>"
+msgstr ""
+
+#: ../backend/inits/init-options.php:144
+msgid "Background"
+msgstr ""
+
+#: ../backend/inits/init-options.php:151
+msgid "Full Screen Background Image with Backstretch"
+msgstr ""
+
+#: ../backend/inits/init-options.php:152
+msgid ""
+"Upload a full screen background image. Upload an image and then click "
+"\"Select\" or \"Insert into Post\".<br /> Background image of Theme "
+"Customizer will be disabled.<br /> <strong>Recommended minimum size: 1600 x "
+"1200 px.</strong>"
+msgstr ""
+
+#: ../backend/inits/init-options.php:160
+msgid "Background Image Opacity"
+msgstr ""
+
+#: ../backend/inits/init-options.php:161
+msgid "Select opacity of background image."
+msgstr ""
+
+#: ../backend/inits/init-options.php:165
+msgid "100%"
+msgstr ""
+
+#: ../backend/inits/init-options.php:166
+msgid "75%"
+msgstr ""
+
+#: ../backend/inits/init-options.php:167
+msgid "50%"
+msgstr ""
+
+#: ../backend/inits/init-options.php:168
+msgid "25%"
+msgstr ""
+
+#: ../backend/inits/init-options.php:169
+msgid "10%"
+msgstr ""
+
+#: ../backend/inits/init-options.php:176
+msgid "Toolbar"
+msgstr ""
+
+#: ../backend/inits/init-options.php:183
+msgid "Header Toolbar"
+msgstr ""
+
+#: ../backend/inits/init-options.php:184
+msgid "Enable / disable displaying of the toolbar in the header."
+msgstr ""
+
+#: ../backend/inits/init-options.php:188 ../backend/inits/init-options.php:201
+#: ../backend/inits/init-options.php:214 ../backend/inits/init-options.php:243
+#: ../backend/inits/init-options.php:256 ../backend/inits/init-options.php:269
+#: ../backend/inits/init-options.php:282 ../backend/inits/init-options.php:308
+#: ../backend/inits/init-options.php:321 ../backend/inits/init-options.php:334
+#: ../backend/inits/init-options.php:514 ../backend/inits/init-options.php:527
+#: ../backend/inits/init-options.php:549 ../backend/inits/init-options.php:562
+#: ../backend/inits/init-options.php:575 ../backend/inits/init-options.php:597
+#: ../backend/inits/init-options.php:722 ../backend/inits/init-options.php:735
+#: ../backend/inits/init-options.php:943
+#: ../backend/inits/init-options.php:1123
+#: ../backend/inits/init-options.php:1136
+#: ../backend/inits/init-options.php:1149
+#: ../backend/inits/init-options.php:1162
+#: ../backend/inits/init-options.php:1299
+msgid "Enabled"
+msgstr ""
+
+#: ../backend/inits/init-options.php:189 ../backend/inits/init-options.php:202
+#: ../backend/inits/init-options.php:215 ../backend/inits/init-options.php:244
+#: ../backend/inits/init-options.php:257 ../backend/inits/init-options.php:270
+#: ../backend/inits/init-options.php:283 ../backend/inits/init-options.php:309
+#: ../backend/inits/init-options.php:322 ../backend/inits/init-options.php:335
+#: ../backend/inits/init-options.php:515 ../backend/inits/init-options.php:528
+#: ../backend/inits/init-options.php:550 ../backend/inits/init-options.php:563
+#: ../backend/inits/init-options.php:576 ../backend/inits/init-options.php:598
+#: ../backend/inits/init-options.php:723 ../backend/inits/init-options.php:736
+#: ../backend/inits/init-options.php:944
+#: ../backend/inits/init-options.php:1124
+#: ../backend/inits/init-options.php:1137
+#: ../backend/inits/init-options.php:1150
+#: ../backend/inits/init-options.php:1163
+#: ../backend/inits/init-options.php:1300
+msgid "Disabled"
+msgstr ""
+
+#: ../backend/inits/init-options.php:196
+msgid "Footer Toolbar"
+msgstr ""
+
+#: ../backend/inits/init-options.php:197
+msgid "Enable / disable displaying of the toolbar in the footer."
+msgstr ""
+
+#: ../backend/inits/init-options.php:209
+msgid "Search Button"
+msgstr ""
+
+#: ../backend/inits/init-options.php:210
+msgid "Enable / disable displaying of the search button."
+msgstr ""
+
+#: ../backend/inits/init-options.php:222
+msgid "Left Toolbar Content"
+msgstr ""
+
+#: ../backend/inits/init-options.php:223
+msgid ""
+"Fill the content of the left toolbar displayed in header and footer. Ideal "
+"for the contact information."
+msgstr ""
+
+#: ../backend/inits/init-options.php:231
+msgid "Slideshow"
+msgstr ""
+
+#: ../backend/inits/init-options.php:238
+msgid "Autoplay"
+msgstr ""
+
+#: ../backend/inits/init-options.php:239
+msgid "Enable / disable autoplay of the slideshow."
+msgstr ""
+
+#: ../backend/inits/init-options.php:251
+msgid "Loop"
+msgstr ""
+
+#: ../backend/inits/init-options.php:252
+msgid "Enable / disable to go from last slide to first."
+msgstr ""
+
+#: ../backend/inits/init-options.php:264
+msgid "Arrow Navigation"
+msgstr ""
+
+#: ../backend/inits/init-options.php:265
+msgid "Enable / disable arrow navigation."
+msgstr ""
+
+#: ../backend/inits/init-options.php:277
+msgid "Arrow Navigation Auto Hide"
+msgstr ""
+
+#: ../backend/inits/init-options.php:278
+msgid "Enable / disable auto hide of the arrow navigation."
+msgstr ""
+
+#: ../backend/inits/init-options.php:290
+msgid "Arrow Navigation on Touch Devices"
+msgstr ""
+
+#: ../backend/inits/init-options.php:291
+msgid "Show / hide arrow navigation completely on touch devices."
+msgstr ""
+
+#: ../backend/inits/init-options.php:295
+msgid "Show"
+msgstr ""
+
+#: ../backend/inits/init-options.php:296
+msgid "Hide"
+msgstr ""
+
+#: ../backend/inits/init-options.php:303
+msgid "Navigate by Click"
+msgstr ""
+
+#: ../backend/inits/init-options.php:304
+msgid "Enable / disable navigation by click."
+msgstr ""
+
+#: ../backend/inits/init-options.php:316
+msgid "Drag"
+msgstr ""
+
+#: ../backend/inits/init-options.php:317
+msgid "Enable / disable mouse drag navigation over the slideshow."
+msgstr ""
+
+#: ../backend/inits/init-options.php:329
+msgid "Touch"
+msgstr ""
+
+#: ../backend/inits/init-options.php:330
+msgid "Enable / disable touch navigation of the slideshow."
+msgstr ""
+
+#: ../backend/inits/init-options.php:342
+msgid "Transition Type"
+msgstr ""
+
+#: ../backend/inits/init-options.php:343
+msgid "Select slideshow transition type."
+msgstr ""
+
+#: ../backend/inits/init-options.php:347
+msgid "Move"
+msgstr ""
+
+#: ../backend/inits/init-options.php:348
+msgid "Fade"
+msgstr ""
+
+#: ../backend/inits/init-options.php:355
+msgid "Slides Orientation"
+msgstr ""
+
+#: ../backend/inits/init-options.php:356
+msgid "Select slides orientation. Can be \"horizontal\" or \"vertical\"."
+msgstr ""
+
+#: ../backend/inits/init-options.php:360
+msgid "Horizontal"
+msgstr ""
+
+#: ../backend/inits/init-options.php:361
+msgid "Vertical"
+msgstr ""
+
+#: ../backend/inits/init-options.php:368
+msgid "Transition Speed"
+msgstr ""
+
+#: ../backend/inits/init-options.php:369
+msgid "Fill the transition speed in miliseconds. Default: 1000"
+msgstr ""
+
+#: ../backend/inits/init-options.php:377
+msgid "Delay"
+msgstr ""
+
+#: ../backend/inits/init-options.php:378
+msgid "Fill the delay between slides in miliseconds. Default: 5000"
+msgstr ""
+
+#: ../backend/inits/init-options.php:386
+msgid "RSS"
+msgstr ""
+
+#: ../backend/inits/init-options.php:387
+msgid ""
+"For this setting you will need to create an account on <a href=\"http://www."
+"feedburner.com/\" target=\"_blank\">Feedburner</a>."
+msgstr ""
+
+#: ../backend/inits/init-options.php:394
+msgid "FeedBurner URL"
+msgstr ""
+
+#: ../backend/inits/init-options.php:395
+msgid ""
+"Enter your full FeedBurner URL (or any other preferred feed URL) if you wish "
+"to use FeedBurner over the standard WordPress feed. <a href=\"http://www."
+"wpbeginner.com/beginners-guide/step-by-step-guide-to-setup-feedburner-for-"
+"wordpress/\" target=\"_blank\">Step by Step Guide to Setup FeedBurner for "
+"WordPress</a>"
+msgstr ""
+
+#: ../backend/inits/init-options.php:405
+msgid "Meta"
+msgstr ""
+
+#: ../backend/inits/init-options.php:412
+msgid "Default Meta Keywords"
+msgstr ""
+
+#: ../backend/inits/init-options.php:413
+msgid "Add default meta keywords. Separate keywords with commas."
+msgstr ""
+
+#: ../backend/inits/init-options.php:421
+msgid "Default Meta Description"
+msgstr ""
+
+#: ../backend/inits/init-options.php:422
+msgid "Add default meta description."
+msgstr ""
+
+#: ../backend/inits/init-options.php:438
+msgid "Custom Google Font"
+msgstr ""
+
+#: ../backend/inits/init-options.php:439
+msgid ""
+"Fill the full name of the font that you'd like using from Google Font API: "
+"<a href=\"http://www.google.com/webfonts\" target=\"_blank\">\n"
+"\thttp://www.google.com/webfonts</a>.<br /> For example: Racing Sans One<br /"
+"> Empty field = Default font"
+msgstr ""
+
+#: ../backend/inits/init-options.php:448
+msgid "Custom CSS"
+msgstr ""
+
+#: ../backend/inits/init-options.php:449
+msgid ""
+"Here you can specify a custom CSS section of code. This code will be given "
+"priority over other CSS styles."
+msgstr ""
+
+#: ../backend/inits/init-options.php:470
+msgid "Select Date Format"
+msgstr ""
+
+#: ../backend/inits/init-options.php:471
+msgid ""
+"Please select a date format for the events and albums.<br /> d m Y = 01 02 "
+"2000<br /> m d Y = 02 01 2000<br /> Y m d = 2000 02 01<br /> Y d m = 2000 01 "
+"02<br /> F j, Y = January 1, 2000<br /> j M, Y = 1 Jan, 2000"
+msgstr ""
+
+#: ../backend/inits/init-options.php:475
+msgid "d m Y"
+msgstr ""
+
+#: ../backend/inits/init-options.php:476
+msgid "m d Y"
+msgstr ""
+
+#: ../backend/inits/init-options.php:477
+msgid "Y m d"
+msgstr ""
+
+#: ../backend/inits/init-options.php:478
+msgid "Y d m"
+msgstr ""
+
+#: ../backend/inits/init-options.php:479
+msgid "F j, Y (Delimiter ignored)"
+msgstr ""
+
+#: ../backend/inits/init-options.php:480
+msgid "j M, Y (Delimiter ignored)"
+msgstr ""
+
+#: ../backend/inits/init-options.php:487
+msgid "Select Date Delimiter"
+msgstr ""
+
+#: ../backend/inits/init-options.php:488
+msgid "Please elect delimiter what want to use between the characters of date."
+msgstr ""
+
+#: ../backend/inits/init-options.php:492
+msgid "Space [ ]"
+msgstr ""
+
+#: ../backend/inits/init-options.php:493
+msgid "Slash [/]"
+msgstr ""
+
+#: ../backend/inits/init-options.php:494
+msgid "Dash [-]"
+msgstr ""
+
+#: ../backend/inits/init-options.php:495
+msgid "Dot [.]"
+msgstr ""
+
+#: ../backend/inits/init-options.php:502
+msgid "Posts on Homepage"
+msgstr ""
+
+#: ../backend/inits/init-options.php:509
+#: ../backend/posttypes/posttype-callout.php:26
+#: ../backend/posttypes/posttype-callout.php:27
+msgid "Callouts"
+msgstr ""
+
+#: ../backend/inits/init-options.php:510
+msgid "Enable / disable callout blocks on homepage."
+msgstr ""
+
+#: ../backend/inits/init-options.php:523
+msgid "Enable / Disable homepage posts."
+msgstr ""
+
+#: ../backend/inits/init-options.php:535
+msgid "Posts Title"
+msgstr ""
+
+#: ../backend/inits/init-options.php:536
+msgid "Fill the homepage posts title."
+msgstr ""
+
+#: ../backend/inits/init-options.php:544
+msgid "Posts Title Show"
+msgstr ""
+
+#: ../backend/inits/init-options.php:545
+msgid "Enable / Disable homepage posts title."
+msgstr ""
+
+#: ../backend/inits/init-options.php:557 ../backend/inits/init-options.php:684
+#: ../backend/posttypes/posttype-event.php:26
+#: ../backend/posttypes/posttype-event.php:27
+msgid "Events"
+msgstr ""
+
+#: ../backend/inits/init-options.php:558
+msgid "Enable / Disable latest events on homepage."
+msgstr ""
+
+#: ../backend/inits/init-options.php:570
+msgid "Events Date"
+msgstr ""
+
+#: ../backend/inits/init-options.php:571
+msgid "Enable / disable post date on homepage."
+msgstr ""
+
+#: ../backend/inits/init-options.php:583
+msgid "Events Title"
+msgstr ""
+
+#: ../backend/inits/init-options.php:584
+msgid "Fill the homepage events title."
+msgstr ""
+
+#: ../backend/inits/init-options.php:592
+msgid "Events Title Show"
+msgstr ""
+
+#: ../backend/inits/init-options.php:593
+msgid "Enable / Disable homepage events title."
+msgstr ""
+
+#: ../backend/inits/init-options.php:605
+msgid "Blog"
+msgstr ""
+
+#: ../backend/inits/init-options.php:612
+msgid "Blog View Type"
+msgstr ""
+
+#: ../backend/inits/init-options.php:613
+msgid "Select <strong>Blog</strong> view type."
+msgstr ""
+
+#: ../backend/inits/init-options.php:617 ../backend/inits/init-options.php:664
+#: ../backend/inits/init-options.php:696 ../backend/inits/init-options.php:709
+msgid "Grid"
+msgstr ""
+
+#: ../backend/inits/init-options.php:618 ../backend/inits/init-options.php:663
+#: ../backend/inits/init-options.php:697 ../backend/inits/init-options.php:710
+msgid "List"
+msgstr ""
+
+#: ../backend/inits/init-options.php:625 ../backend/inits/init-widgets.php:83
+msgid "Blog Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-options.php:626
+msgid "Select the sidebar location of the blog templates."
+msgstr ""
+
+#: ../backend/inits/init-options.php:630 ../backend/inits/init-options.php:677
+#: ../backend/inits/init-options.php:767 ../backend/inits/init-options.php:786
+#: ../backend/inits/init-options.php:816 ../backend/inits/init-options.php:845
+#: ../backend/inits/init-options.php:865 ../backend/inits/init-options.php:885
+#: ../backend/inits/init-options.php:907
+msgid "Right"
+msgstr ""
+
+#: ../backend/inits/init-options.php:631 ../backend/inits/init-options.php:676
+#: ../backend/inits/init-options.php:766 ../backend/inits/init-options.php:787
+#: ../backend/inits/init-options.php:815 ../backend/inits/init-options.php:844
+#: ../backend/inits/init-options.php:864 ../backend/inits/init-options.php:884
+#: ../backend/inits/init-options.php:906
+msgid "Left"
+msgstr ""
+
+#: ../backend/inits/init-options.php:638 ../backend/inits/init-options.php:650
+#: ../backend/posttypes/posttype-menu.php:26
+#: ../backend/posttypes/posttype-menu.php:27
+#: ../backend/taxonomies/taxonomy-menu.php:26
+#: ../backend/taxonomies/taxonomy-menu.php:43
+msgid "Menus"
+msgstr ""
+
+#: ../backend/inits/init-options.php:645
+msgid "Menu Type"
+msgstr ""
+
+#: ../backend/inits/init-options.php:646 ../backend/inits/init-options.php:659
+msgid "Select <strong>Menus</strong> view type."
+msgstr ""
+
+#: ../backend/inits/init-options.php:651
+msgid "Foods, Breakfasts, Lunches, Dinners, Drinks, Wines"
+msgstr ""
+
+#: ../backend/inits/init-options.php:658
+msgid "Menus View Type"
+msgstr ""
+
+#: ../backend/inits/init-options.php:671 ../backend/inits/init-widgets.php:178
+msgid "Menus Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-options.php:672
+msgid "Select the sidebar location of the menus templates."
+msgstr ""
+
+#: ../backend/inits/init-options.php:691
+msgid "Events View Type"
+msgstr ""
+
+#: ../backend/inits/init-options.php:692
+msgid "Select <strong>Events</strong> view type."
+msgstr ""
+
+#: ../backend/inits/init-options.php:704
+msgid "Past Events View Type"
+msgstr ""
+
+#: ../backend/inits/init-options.php:705
+msgid "Select <strong>Past Events</strong> view type."
+msgstr ""
+
+#: ../backend/inits/init-options.php:717
+msgid "Thumbnails on Events Page"
+msgstr ""
+
+#: ../backend/inits/init-options.php:718
+msgid ""
+"Enable / disable thumbnails on the <strong>Events</strong> page template."
+msgstr ""
+
+#: ../backend/inits/init-options.php:730
+msgid "Event Single Page"
+msgstr ""
+
+#: ../backend/inits/init-options.php:731
+msgid "Enable / disable event single page."
+msgstr ""
+
+#: ../backend/inits/init-options.php:743
+msgid "Upcoming Events per Page"
+msgstr ""
+
+#: ../backend/inits/init-options.php:744
+msgid ""
+"Fill the number of upcoming events displayed per page. Default: -1 (all)."
+msgstr ""
+
+#: ../backend/inits/init-options.php:752
+msgid "Past Events per Page"
+msgstr ""
+
+#: ../backend/inits/init-options.php:753
+msgid "Fill the number of past events displayed per page. Default: -1 (all)."
+msgstr ""
+
+#: ../backend/inits/init-options.php:761 ../backend/inits/init-widgets.php:193
+msgid "Events Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-options.php:762
+msgid "Select the sidebar location of the events templates."
+msgstr ""
+
+#: ../backend/inits/init-options.php:781
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-options.php:782
+msgid "Select the sidebar location of the page templates."
+msgstr ""
+
+#: ../backend/inits/init-options.php:801
+msgid "Videos per Page"
+msgstr ""
+
+#: ../backend/inits/init-options.php:802
+msgid "Fill the number of videos displayed per page. Default: -1 (all)."
+msgstr ""
+
+#: ../backend/inits/init-options.php:810 ../backend/inits/init-widgets.php:206
+msgid "Videos Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-options.php:811
+msgid "Select the sidebar location of the video templates."
+msgstr ""
+
+#: ../backend/inits/init-options.php:830
+msgid "Galleries per Page"
+msgstr ""
+
+#: ../backend/inits/init-options.php:831
+msgid "Fill the number of galleries displayed per page. Default: -1 (all)."
+msgstr ""
+
+#: ../backend/inits/init-options.php:839
+msgid "Gallery Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-options.php:840
+msgid "Select the sidebar location of the gallery templates."
+msgstr ""
+
+#: ../backend/inits/init-options.php:852
+msgid "Reservation"
+msgstr ""
+
+#: ../backend/inits/init-options.php:859 ../backend/inits/init-widgets.php:232
+msgid "Reservation Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-options.php:860
+msgid "Select the sidebar location of the reservation template."
+msgstr ""
+
+#: ../backend/inits/init-options.php:879 ../backend/inits/init-widgets.php:245
+msgid "Contact Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-options.php:880
+msgid "Select the sidebar location of the contact template."
+msgstr ""
+
+#: ../backend/inits/init-options.php:894
+msgid "Shop"
+msgstr ""
+
+#: ../backend/inits/init-options.php:901 ../backend/inits/init-widgets.php:260
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-options.php:902
+msgid "Select the sidebar location of the shop (WooCommerce) templates."
+msgstr ""
+
+#: ../backend/inits/init-options.php:916
+msgid "Footer"
+msgstr ""
+
+#: ../backend/inits/init-options.php:923
+msgid "Footer Copyright"
+msgstr ""
+
+#: ../backend/inits/init-options.php:924
+msgid "Fill the text appeared instead copyright in footer."
+msgstr ""
+
+#: ../backend/inits/init-options.php:938
+msgid "Open Links in New Window"
+msgstr ""
+
+#: ../backend/inits/init-options.php:939
+msgid ""
+"Enable / disable opening of the link in new window. Enabled = Open in new "
+"window/tab, Disabled = Open in actual window/tab"
+msgstr ""
+
+#: ../backend/inits/init-options.php:951
+msgid "Social Profiles"
+msgstr ""
+
+#: ../backend/inits/init-options.php:959
+msgid "Fill the absolute path to your Twitter account."
+msgstr ""
+
+#: ../backend/inits/init-options.php:968
+msgid "Fill the absolute path to your Facebook account."
+msgstr ""
+
+#: ../backend/inits/init-options.php:977
+msgid "Fill the absolute path to your Google+ account."
+msgstr ""
+
+#: ../backend/inits/init-options.php:986
+#: ../backend/inits/init-options.php:1031
+msgid "Fill the absolute path to your Pinterest account."
+msgstr ""
+
+#: ../backend/inits/init-options.php:995
+msgid "Fill the absolute path to your TripAdvisor account."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1004
+msgid "Fill the absolute path to your Foursquare account."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1013
+msgid "Fill the absolute path to your Yelp account."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1022
+msgid "Fill the absolute path to your Xing account."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1040
+msgid "Fill the absolute path to your Qype account."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1049
+msgid "Fill the absolute path to your Zagat account."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1058
+msgid "Fill the absolute path to your YouTube account."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1067
+msgid "Fill the absolute path to your Vimeo account."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1076
+msgid "Fill the absolute path to your Flickr account."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1085
+msgid "Fill the absolute path to your Tumblr account."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1094
+msgid "Fill the absolute path to your Instagram account."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1103
+msgid "Fill the absolute path to your Amazon account."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1111
+msgid "Sharing Box"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1118
+msgid "Twitter Button"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1119
+msgid "Enable / disable Twitter button for post sharing."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1131
+msgid "Facebook Button"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1132
+msgid "Enable / disable Facebook button for post sharing."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1144
+msgid "Google+ Button"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1145
+msgid "Enable / disable Google+ button for post sharing."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1157
+msgid "Pinterest Button"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1158
+msgid "Enable / disable Pinterest button for post sharing."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1170
+msgid "Twitter API"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1177
+msgid "Consumer Key"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1178
+msgid ""
+"Fill the consumer key of your Twitter application. Twitter application you "
+"can create on <a href=\"https://dev.twitter.com/apps\" target=\"_blank"
+"\">https://dev.twitter.com/apps</a>."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1186
+msgid "Consumer Secret"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1187
+msgid ""
+"Fill the consumer secret of your Twitter application. Twitter application "
+"you can create on <a href=\"https://dev.twitter.com/apps\" target=\"_blank"
+"\">https://dev.twitter.com/apps</a>."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1195
+msgid "Access Token"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1196
+msgid ""
+"Fill the access token of your Twitter application. Twitter application you "
+"can create on <a href=\"https://dev.twitter.com/apps\" target=\"_blank"
+"\">https://dev.twitter.com/apps</a>."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1204
+msgid "Access Secret"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1205
+msgid ""
+"Fill the access secret of your Twitter application. Twitter application you "
+"can create on <a href=\"https://dev.twitter.com/apps\" target=\"_blank"
+"\">https://dev.twitter.com/apps</a>."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1226
+#: ../backend/inits/init-options.php:1251
+msgid "Email Address for Receiving Emails"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1227
+#: ../backend/inits/init-options.php:1252
+msgid "Fill your email address in this format: john@doe.com"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1235
+#: ../backend/inits/init-options.php:1260
+msgid "Subject of Received Emails"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1236
+msgid ""
+"Fill the subject of the email. Something as: Name of the site - Contact form."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1261
+msgid ""
+"Fill the subject of the email. Something as: Name of the site - Reservation "
+"form."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1269
+msgid "Datepicker Date Format"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1270
+msgid ""
+"Fill the date format of datepicker input. Default: mm/dd/yy.<br />  More "
+"infomation: <a href=\"http://api.jqueryui.com/datepicker/#option-dateFormat"
+"\" target=\"_blank\">http://api.jqueryui.com/datepicker/#option-dateFormat</"
+"a>."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1278
+msgid "Datepicker Max Date"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1279
+msgid ""
+"Fill the maximum selectable date in a number of days from today or in a "
+"string. \"14\" = 14 days, \"21\" = 21 days, \"+1m\" = 1 month, \"+1w\" = 1 "
+"week, \"+1d\" = 1 day, \"+1m +1w\" = 1 month and 1 week. Default: null (no "
+"maximum).<br /> More infomation: <a href=\"http://api.jqueryui.com/"
+"datepicker/#option-maxDate\" target=\"_blank\">http://api.jqueryui.com/"
+"datepicker/#option-maxDate</a>."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1287
+#: ../backend/inits/init-options.php:1294
+msgid "reCaptcha"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1295
+msgid "Enable / disable reCaptcha for contact form."
+msgstr ""
+
+#: ../backend/inits/init-options.php:1307
+msgid "reCaptcha Theme"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1308
+msgid ""
+"Select reCaptcha theme. Available themes you can see on: <a href=\"https://"
+"developers.google.com/recaptcha/docs/customization\">https://developers."
+"google.com/recaptcha/docs/customization</a>"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1312
+msgid "Clean"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1313
+msgid "Red"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1314
+msgid "White"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1315
+msgid "Blackglass"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1322
+msgid "Public Key [REQUIRED]"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1323
+msgid ""
+"Fill the public key. Keys you can get on: <a href=\"https://www.google.com/"
+"recaptcha/admin/create\">https://www.google.com/recaptcha/admin/create</a>"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1331
+msgid "Private Key [REQUIRED]"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1332
+msgid ""
+"Fill the private key. Keys you can get on: <a href=\"https://www.google.com/"
+"recaptcha/admin/create\">https://www.google.com/recaptcha/admin/create</a>"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1346
+msgid "Tracking Code"
+msgstr ""
+
+#: ../backend/inits/init-options.php:1347
+msgid ""
+"Paste your Google Analytics (or other) tracking code. It will be inserted "
+"before the closing body tag of your theme."
+msgstr ""
+
+#: ../backend/inits/init-postformats.php:138
+msgid "Audio Settings"
+msgstr ""
+
+#: ../backend/inits/init-postformats.php:142
+msgid "MP3 File Upload"
+msgstr ""
+
+#: ../backend/inits/init-postformats.php:143
+msgid "Click to upload the *.mp3 audio file."
+msgstr ""
+
+#: ../backend/inits/init-postformats.php:160
+msgid "Gallery Settings"
+msgstr ""
+
+#: ../backend/inits/init-postformats.php:164
+msgid "Upload Gallery Images"
+msgstr ""
+
+#: ../backend/inits/init-postformats.php:165
+msgid "Click to upload images."
+msgstr ""
+
+#: ../backend/inits/init-postformats.php:180
+msgid "Video Settings"
+msgstr ""
+
+#: ../backend/inits/init-postformats.php:184
+#: ../backend/posttypes/posttype-event.php:237
+#: ../backend/posttypes/posttype-slide.php:164
+#: ../backend/posttypes/posttype-video.php:150
+msgid "YouTube Embed Code"
+msgstr ""
+
+#: ../backend/inits/init-postformats.php:185
+msgid ""
+"Add YouTube Video Embed Code. For Example: http://www.youtube.com/watch?"
+"v=<strong>12345abcdef</strong>."
+msgstr ""
+
+#: ../backend/inits/init-postformats.php:190
+#: ../backend/posttypes/posttype-event.php:243
+#: ../backend/posttypes/posttype-slide.php:170
+#: ../backend/posttypes/posttype-video.php:156
+msgid "Vimeo Embed Code"
+msgstr ""
+
+#: ../backend/inits/init-postformats.php:191
+msgid ""
+"Add Vimeo Video Embed Code. For example: http://vimeo.com/<strong>123456789</"
+"strong>."
+msgstr ""
+
+#: ../backend/inits/init-postformats.php:206
+msgid "Quote Settings"
+msgstr ""
+
+#: ../backend/inits/init-postformats.php:210
+msgid "The Quote"
+msgstr ""
+
+#: ../backend/inits/init-postformats.php:211
+msgid "Input your quote."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:70
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:71
+msgid ""
+"Sidebar that appears on pages. Sidebar won't be displayed when won't be "
+"placed a widget."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:84
+msgid ""
+"Sidebar that appears on blog pages. Sidebar won't be displayed when won't be "
+"placed a widget."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:98
+msgid "Foods Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:99
+msgid ""
+"Sidebar that appears on food pages. Sidebar won't be displayed when won't be "
+"placed a widget."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:111
+msgid "Breakfasts Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:112
+msgid ""
+"Sidebar that appears on breakfast pages. Sidebar won't be displayed when "
+"won't be placed a widget."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:124
+msgid "Lunches Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:125
+msgid ""
+"Sidebar that appears on lunch pages. Sidebar won't be displayed when won't "
+"be placed a widget."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:137
+msgid "Dinners Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:138
+msgid ""
+"Sidebar that appears on dinner pages. Sidebar won't be displayed when won't "
+"be placed a widget."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:150
+msgid "Drinks Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:151
+msgid ""
+"Sidebar that appears on drink pages. Sidebar won't be displayed when won't "
+"be placed a widget."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:163
+msgid "Wines Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:164
+msgid ""
+"Sidebar that appears on wine pages. Sidebar won't be displayed when won't be "
+"placed a widget."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:179
+msgid ""
+"Sidebar that appears on menu pages. Sidebar won't be displayed when won't be "
+"placed a widget."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:194
+msgid ""
+"Sidebar that appears on event pages. Sidebar won't be displayed when won't "
+"be placed a widget."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:207
+msgid ""
+"Sidebar that appears on video pages. Sidebar won't be displayed when won't "
+"be placed a widget."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:219
+msgid "Galleries Sidebar"
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:220
+msgid ""
+"Sidebar that appears on gallery pages. Sidebar won't be displayed when won't "
+"be placed a widget."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:233
+msgid ""
+"Sidebar that appears on reservation page. Sidebar won't be displayed when "
+"won't be placed a widget."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:246
+msgid ""
+"Sidebar that appears on contact page. Sidebar won't be displayed when won't "
+"be placed a widget."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:261
+msgid ""
+"Sidebar that appears on shop pages. Sidebar won't be displayed when won't be "
+"placed a widget."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:275
+msgid "Footer [Full]"
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:276
+msgid ""
+"Full width footer widget area appears on all pages. Area won't be displayed "
+"when won't be placed a widget."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:288
+msgid "Footer [1st]"
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:289
+msgid "1st footer widget area."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:301
+msgid "Footer [2nd]"
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:302
+msgid "2nd footer widget area."
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:314
+msgid "Footer [3rd]"
+msgstr ""
+
+#: ../backend/inits/init-widgets.php:315
+msgid "3rd footer widget area."
+msgstr ""
+
+#: ../backend/metaboxes/metabox-global.php:39
+msgid "SEO Settings"
+msgstr ""
+
+#: ../backend/metaboxes/metabox-global.php:43
+msgid "Keywords"
+msgstr ""
+
+#: ../backend/metaboxes/metabox-global.php:44
+msgid "Fill the meta keywords for this page/post. Separated by comma."
+msgstr ""
+
+#: ../backend/metaboxes/metabox-global.php:49
+#: ../backend/posttypes/posttype-breakfast.php:158
+#: ../backend/posttypes/posttype-callout.php:165
+#: ../backend/posttypes/posttype-dinner.php:156
+#: ../backend/posttypes/posttype-drink.php:156
+#: ../backend/posttypes/posttype-food.php:156
+#: ../backend/posttypes/posttype-lunch.php:156
+#: ../backend/posttypes/posttype-menu.php:156
+#: ../backend/posttypes/posttype-wine.php:156
+msgid "Description"
+msgstr ""
+
+#: ../backend/metaboxes/metabox-global.php:50
+msgid ""
+"Fill the meta description for this page/post. Maximum of 160 characters."
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:26
+#: ../backend/posttypes/posttype-breakfast.php:27
+#: ../backend/posttypes/posttype-breakfast.php:28
+msgid "Breakfasts"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:29
+msgid "All Breakfasts"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:30
+#: ../backend/posttypes/posttype-breakfast.php:31
+msgid "Add New Breakfast"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:32
+msgid "Edit Breakfast"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:33
+msgid "New Breakfast"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:34
+msgid "View Breakfast"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:35
+msgid "Search Breakfasts"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:36
+msgid "No Breakfasts"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:37
+msgid "No Breakfasts Found in Trash"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:145
+msgid "Breakfast Options"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:151
+#: ../backend/posttypes/posttype-dinner.php:149
+#: ../backend/posttypes/posttype-drink.php:149
+#: ../backend/posttypes/posttype-food.php:149
+#: ../backend/posttypes/posttype-lunch.php:149
+#: ../backend/posttypes/posttype-menu.php:149
+#: ../backend/posttypes/posttype-wine.php:149
+msgid "Prices"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:152
+msgid ""
+"Fill the prices of the breakfast. Fill price with currency symbol. Example "
+"format: Bottle 0,5l ... $25"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:159
+msgid "Fill the description of the breakfast."
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:165
+msgid "Fill the number of the breakfast."
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:171
+#: ../backend/posttypes/posttype-dinner.php:169
+#: ../backend/posttypes/posttype-drink.php:169
+#: ../backend/posttypes/posttype-food.php:169
+#: ../backend/posttypes/posttype-lunch.php:169
+#: ../backend/posttypes/posttype-menu.php:169
+#: ../backend/posttypes/posttype-wine.php:169
+msgid "Use Single Page"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:207
+#: ../backend/posttypes/posttype-dinner.php:205
+#: ../backend/posttypes/posttype-drink.php:205
+#: ../backend/posttypes/posttype-food.php:205
+#: ../backend/posttypes/posttype-lunch.php:205
+#: ../backend/posttypes/posttype-menu.php:205
+#: ../backend/posttypes/posttype-wine.php:205
+#: ../backend/widgets/widget-about.php:110
+#: ../backend/widgets/widget-categories-event.php:101
+#: ../backend/widgets/widget-categories-gallery.php:101
+#: ../backend/widgets/widget-categories-video.php:101
+#: ../backend/widgets/widget-opening-hours.php:147
+#: ../backend/widgets/widget-recent-events.php:152
+#: ../backend/widgets/widget-recent-posts.php:118
+#: ../backend/widgets/widget-recent-tweet.php:140
+#: ../backend/widgets/widget-recent-videos.php:115
+#: ../backend/widgets/widget-subpages.php:97
+#: ../backend/widgets/widget-tweets.php:144
+msgid "Title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:209
+#: ../backend/posttypes/posttype-callout.php:203
+#: ../backend/posttypes/posttype-dinner.php:207
+#: ../backend/posttypes/posttype-drink.php:207
+#: ../backend/posttypes/posttype-event.php:282
+#: ../backend/posttypes/posttype-food.php:207
+#: ../backend/posttypes/posttype-gallery.php:186
+#: ../backend/posttypes/posttype-lunch.php:207
+#: ../backend/posttypes/posttype-menu.php:207
+#: ../backend/posttypes/posttype-slide.php:209
+#: ../backend/posttypes/posttype-video.php:193
+#: ../backend/posttypes/posttype-wine.php:207
+msgid "Author"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:238
+#: ../backend/posttypes/posttype-callout.php:232
+#: ../backend/posttypes/posttype-dinner.php:236
+#: ../backend/posttypes/posttype-drink.php:236
+#: ../backend/posttypes/posttype-event.php:311
+#: ../backend/posttypes/posttype-event.php:324
+#: ../backend/posttypes/posttype-food.php:236
+#: ../backend/posttypes/posttype-lunch.php:236
+#: ../backend/posttypes/posttype-menu.php:236
+#: ../backend/posttypes/posttype-slide.php:238
+#: ../backend/posttypes/posttype-slide.php:250
+#: ../backend/posttypes/posttype-wine.php:236
+msgid "/"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:319
+#, php-format
+msgid "Breakfast updated. <a href=\"%s\">View breakfast &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:320
+#: ../backend/posttypes/posttype-callout.php:284
+#: ../backend/posttypes/posttype-dinner.php:318
+#: ../backend/posttypes/posttype-drink.php:318
+#: ../backend/posttypes/posttype-event.php:403
+#: ../backend/posttypes/posttype-food.php:318
+#: ../backend/posttypes/posttype-gallery.php:234
+#: ../backend/posttypes/posttype-lunch.php:318
+#: ../backend/posttypes/posttype-menu.php:318
+#: ../backend/posttypes/posttype-slide.php:303
+#: ../backend/posttypes/posttype-video.php:241
+#: ../backend/posttypes/posttype-wine.php:318
+msgid "Custom field updated."
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:321
+#: ../backend/posttypes/posttype-callout.php:285
+#: ../backend/posttypes/posttype-dinner.php:319
+#: ../backend/posttypes/posttype-drink.php:319
+#: ../backend/posttypes/posttype-event.php:404
+#: ../backend/posttypes/posttype-food.php:319
+#: ../backend/posttypes/posttype-gallery.php:235
+#: ../backend/posttypes/posttype-lunch.php:319
+#: ../backend/posttypes/posttype-menu.php:319
+#: ../backend/posttypes/posttype-slide.php:304
+#: ../backend/posttypes/posttype-video.php:242
+#: ../backend/posttypes/posttype-wine.php:319
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:322
+msgid "Breakfast updated."
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:323
+#, php-format
+msgid "Breakfast restored to revision from %s"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:324
+#, php-format
+msgid "Breakfast published. <a href=\"%s\">View breakfast &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:325
+msgid "Breakfast saved."
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:326
+#, php-format
+msgid ""
+"Breakfast submitted. <a target=\"_blank\" href=\"%s\">Preview breakfast "
+"&rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:327
+#, php-format
+msgid ""
+"Breakfast scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview breakfast &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:327
+#: ../backend/posttypes/posttype-callout.php:291
+#: ../backend/posttypes/posttype-dinner.php:325
+#: ../backend/posttypes/posttype-drink.php:325
+#: ../backend/posttypes/posttype-event.php:410
+#: ../backend/posttypes/posttype-food.php:325
+#: ../backend/posttypes/posttype-gallery.php:241
+#: ../backend/posttypes/posttype-lunch.php:325
+#: ../backend/posttypes/posttype-menu.php:325
+#: ../backend/posttypes/posttype-slide.php:310
+#: ../backend/posttypes/posttype-video.php:248
+#: ../backend/posttypes/posttype-wine.php:325
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:328
+#, php-format
+msgid ""
+"Breakfast draft updated. <a target=\"_blank\" href=\"%s\">Preview breakfast "
+"&rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-breakfast.php:352
+msgid "Enter breakfast title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:28
+msgid "Callout"
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:29
+msgid "All Callouts"
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:30
+#: ../backend/posttypes/posttype-callout.php:31
+msgid "Add New Callout"
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:32
+msgid "Edit Callout"
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:33
+msgid "New Callout"
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:34
+msgid "View Callout"
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:35
+msgid "Search Callouts"
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:36
+msgid "No Callouts"
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:37
+msgid "No Callouts Found in Trash"
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:147
+msgid "Callout Options"
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:153
+#: ../backend/posttypes/posttype-slide.php:146
+msgid "Show Title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:159
+#: ../backend/posttypes/posttype-slide.php:158
+msgid "The URL"
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:160
+#: ../backend/posttypes/posttype-slide.php:159
+msgid "Insert the URL you wish to link to."
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:166
+msgid "Fill the description of the callout. Shotcodes and HTML allowed."
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:201
+msgid "Callout Block Title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:202
+msgid "Callout URL"
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:283
+#: ../backend/posttypes/posttype-callout.php:286
+msgid "Callout block updated."
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:287
+#, php-format
+msgid "Callout block restored to revision from %s"
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:288
+msgid "Callout block published."
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:289
+msgid "Callout block saved."
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:290
+msgid "Callout block submitted."
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:291
+#, php-format
+msgid "Callout block scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:292
+msgid "Callout block draft updated."
+msgstr ""
+
+#: ../backend/posttypes/posttype-callout.php:316
+msgid "Enter callout block title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:26
+#: ../backend/posttypes/posttype-dinner.php:27
+#: ../backend/posttypes/posttype-dinner.php:28
+msgid "Dinners"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:29
+msgid "All Dinners"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:30
+#: ../backend/posttypes/posttype-dinner.php:31
+msgid "Add New Dinner"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:32
+msgid "Edit Dinner"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:33
+msgid "New Dinner"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:34
+msgid "View Dinner"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:35
+msgid "Search Dinners"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:36
+msgid "No Dinners"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:37
+msgid "No Dinners Found in Trash"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:143
+msgid "Dinner Options"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:150
+msgid ""
+"Fill the prices of the dinner. Fill price with currency symbol. Example "
+"format: Bottle 0,5l ... $25"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:157
+msgid "Fill the description of the dinner."
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:163
+msgid "Fill the number of the dinner."
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:317
+#, php-format
+msgid "Dinner updated. <a href=\"%s\">View dinner &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:320
+msgid "Dinner updated."
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:321
+#, php-format
+msgid "Dinner restored to revision from %s"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:322
+#, php-format
+msgid "Dinner published. <a href=\"%s\">View dinner &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:323
+msgid "Dinner saved."
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:324
+#, php-format
+msgid ""
+"Dinner submitted. <a target=\"_blank\" href=\"%s\">Preview dinner &rsaquo;</"
+"a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:325
+#, php-format
+msgid ""
+"Dinner scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview dinner &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:326
+#, php-format
+msgid ""
+"Dinner draft updated. <a target=\"_blank\" href=\"%s\">Preview dinner "
+"&rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-dinner.php:350
+msgid "Enter dinner title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:26
+#: ../backend/posttypes/posttype-drink.php:27
+#: ../backend/posttypes/posttype-drink.php:28
+msgid "Drinks"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:29
+msgid "All Drinks"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:30
+#: ../backend/posttypes/posttype-drink.php:31
+msgid "Add New Drink"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:32
+msgid "Edit Drink"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:33
+msgid "New Drink"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:34
+msgid "View Drink"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:35
+msgid "Search Drinks"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:36
+msgid "No Drinks"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:37
+msgid "No Drinks Found in Trash"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:143
+msgid "Drink Options"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:150
+msgid ""
+"Fill the prices of the drink. Fill price with currency symbol. Example "
+"format: Bottle 0,5l ... $25"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:157
+msgid "Fill the description of the drink."
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:163
+msgid "Fill the number of the drink."
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:317
+#, php-format
+msgid "Drink updated. <a href=\"%s\">View drink &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:320
+msgid "Drink updated."
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:321
+#, php-format
+msgid "Drink restored to revision from %s"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:322
+#, php-format
+msgid "Drink published. <a href=\"%s\">View drink &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:323
+msgid "Drink saved."
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:324
+#, php-format
+msgid ""
+"Drink submitted. <a target=\"_blank\" href=\"%s\">Preview drink &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:325
+#, php-format
+msgid ""
+"Drink scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview drink &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:326
+#, php-format
+msgid ""
+"Drink draft updated. <a target=\"_blank\" href=\"%s\">Preview drink &rsaquo;"
+"</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-drink.php:350
+msgid "Enter drink title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:28
+msgid "Event"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:29
+msgid "All Events"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:30
+#: ../backend/posttypes/posttype-event.php:31
+msgid "Add New Event"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:32
+msgid "Edit Event"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:33
+msgid "New Event"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:34
+msgid "View Event"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:35
+msgid "Search Events"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:36
+msgid "No Events"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:37
+msgid "No Events Found in Trash"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:146
+msgid "Event Options"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:152
+#: ../backend/posttypes/posttype-event.php:280
+msgid "Event Date"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:158
+msgid "Event Time"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:159
+msgid "For example: 08:00PM - 11:00PM."
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:164
+msgid "Event Venue"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:165
+msgid "For example: Club, Stadium etc."
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:170
+msgid "Event Venue URL"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:175
+msgid "Event Location"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:176
+msgid "For example: London, United Kingdom"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:181
+msgid "Event Contact"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:182
+msgid "Fill the event contact (e-mail address, phone, etc.)."
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:187
+msgid "Event Status"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:188
+msgid "Fill the event status (Tickets Available, Sold Out, Cancelled etc.)."
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:193
+msgid "Ticket Price"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:194
+msgid "Fill the event ticket price (with currency symbol)."
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:199
+msgid "Buy Tickets Button 1 Text"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:204
+msgid "Buy Tickets Button 1 URL"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:205
+#: ../backend/posttypes/posttype-event.php:216
+msgid "Fill the URL where is possible to buy tickets."
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:210
+msgid "Buy Tickets Button 2 Text"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:215
+msgid "Buy Tickets Button 2 URL"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:221
+msgid "Facebook Event Button Text"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:226
+msgid "Facebook Event Button URL"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:227
+msgid "Fill the URL of the Facebook event."
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:232
+msgid "Google Map URL"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:238
+#: ../backend/posttypes/posttype-slide.php:165
+#: ../backend/posttypes/posttype-video.php:151
+msgid ""
+"Add YouTube Video Embed Code. For Example: http://www.youtube.com/watch?"
+"v=<strong>12345abcdef</strong> (insert just code, not full url). Please note "
+"that Featured Image is required!"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:244
+#: ../backend/posttypes/posttype-slide.php:171
+#: ../backend/posttypes/posttype-video.php:157
+msgid ""
+"Add Vimeo Video Embed Code. For example: http://vimeo.com/<strong>123456789</"
+"strong> (insert just code, not full url). Please note that Featured Image is "
+"required!"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:279
+msgid "Event Title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:281
+msgid "Event Location / Event Venue"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:402
+#, php-format
+msgid "Event updated. <a href=\"%s\">View event &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:405
+msgid "Event updated."
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:406
+#, php-format
+msgid "Event restored to revision from %s"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:407
+#, php-format
+msgid "Event published. <a href=\"%s\">View event &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:408
+msgid "Event saved."
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:409
+#, php-format
+msgid ""
+"Event submitted. <a target=\"_blank\" href=\"%s\">Preview event &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:410
+#, php-format
+msgid ""
+"Event scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview event &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:411
+#, php-format
+msgid ""
+"Event draft updated. <a target=\"_blank\" href=\"%s\">Preview event &rsaquo;"
+"</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-event.php:435
+msgid "Enter event title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:26
+#: ../backend/posttypes/posttype-food.php:27
+#: ../backend/posttypes/posttype-food.php:28
+msgid "Foods"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:29
+msgid "All Foods"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:30
+#: ../backend/posttypes/posttype-food.php:31
+msgid "Add New Food"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:32
+msgid "Edit Food"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:33
+msgid "New Food"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:34
+msgid "View Food"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:35
+msgid "Search Foods"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:36
+msgid "No Foods"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:37
+msgid "No Foods Found in Trash"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:143
+msgid "Food Options"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:150
+msgid ""
+"Fill the prices of the food. Fill price with currency symbol. Example "
+"format: Bottle 0,5l ... $25"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:157
+msgid "Fill the description of the food."
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:163
+msgid "Fill the number of the food."
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:317
+#, php-format
+msgid "Food updated. <a href=\"%s\">View food &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:320
+msgid "Food updated."
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:321
+#, php-format
+msgid "Food restored to revision from %s"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:322
+#, php-format
+msgid "Food published. <a href=\"%s\">View food &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:323
+msgid "Food saved."
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:324
+#, php-format
+msgid ""
+"Food submitted. <a target=\"_blank\" href=\"%s\">Preview food &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:325
+#, php-format
+msgid ""
+"Food scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview food &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:326
+#, php-format
+msgid ""
+"Food draft updated. <a target=\"_blank\" href=\"%s\">Preview food &rsaquo;</"
+"a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-food.php:350
+msgid "Enter food title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:28
+msgid "Gallery"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:29
+msgid "All Galleries"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:30
+#: ../backend/posttypes/posttype-gallery.php:31
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:32
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:33
+msgid "New Gallery"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:34
+msgid "View Gallery"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:35
+msgid "Search Galleries"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:36
+msgid "No Galleries"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:37
+msgid "No Galleries Found in Trash"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:143
+msgid "Gallery Images"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:150
+msgid "Drop images into the uploader or click to Select Files button."
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:185
+msgid "Gallery Title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:233
+#, php-format
+msgid "Gallery updated. <a href=\"%s\">View gallery &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:236
+msgid "Gallery updated."
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:237
+#, php-format
+msgid "Gallery restored to revision from %s"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:238
+#, php-format
+msgid "Gallery published. <a href=\"%s\">View gallery &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:239
+msgid "Gallery saved."
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:240
+#, php-format
+msgid ""
+"Gallery submitted. <a target=\"_blank\" href=\"%s\">Preview gallery &rsaquo;"
+"</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:241
+#, php-format
+msgid ""
+"Gallery scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview gallery &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:242
+#, php-format
+msgid ""
+"Gallery draft updated. <a target=\"_blank\" href=\"%s\">Preview gallery "
+"&rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-gallery.php:266
+msgid "Enter gallery title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:26
+#: ../backend/posttypes/posttype-lunch.php:27
+#: ../backend/posttypes/posttype-lunch.php:28
+msgid "Lunches"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:29
+msgid "All Lunches"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:30
+#: ../backend/posttypes/posttype-lunch.php:31
+msgid "Add New Lunch"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:32
+msgid "Edit Lunch"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:33
+msgid "New Lunch"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:34
+msgid "View Lunch"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:35
+msgid "Search Lunches"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:36
+msgid "No Lunches"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:37
+msgid "No Lunches Found in Trash"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:143
+msgid "Lunch Options"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:150
+msgid ""
+"Fill the prices of the lunch. Fill price with currency symbol. Example "
+"format: Bottle 0,5l ... $25"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:157
+msgid "Fill the description of the lunch."
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:163
+msgid "Fill the number of the lunch."
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:317
+#, php-format
+msgid "Lunch updated. <a href=\"%s\">View lunch &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:320
+msgid "Lunch updated."
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:321
+#, php-format
+msgid "Lunch restored to revision from %s"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:322
+#, php-format
+msgid "Lunch published. <a href=\"%s\">View lunch &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:323
+msgid "Lunch saved."
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:324
+#, php-format
+msgid ""
+"Lunch submitted. <a target=\"_blank\" href=\"%s\">Preview lunch &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:325
+#, php-format
+msgid ""
+"Lunch scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview lunch &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:326
+#, php-format
+msgid ""
+"Lunch draft updated. <a target=\"_blank\" href=\"%s\">Preview lunch &rsaquo;"
+"</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-lunch.php:350
+msgid "Enter lunch title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:28
+#: ../backend/taxonomies/taxonomy-menu.php:27
+msgid "Menu"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:29
+msgid "All Menu Items"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:30
+#: ../backend/posttypes/posttype-menu.php:31
+msgid "Add New Menu Item"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:32
+msgid "Edit Menu Item"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:33
+msgid "New Menu Item"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:34
+msgid "View Menu Item"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:35
+msgid "Search Menu Items"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:36
+msgid "No Menu Items"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:37
+msgid "No Menu Items Found in Trash"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:143
+msgid "Menu Item Options"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:150
+msgid ""
+"Fill the prices of the menu item. Fill price with currency symbol. Example "
+"format: Bottle 0,5l ... $25"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:157
+msgid "Fill the description of the menu item."
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:163
+msgid "Fill the ingredients of the menu item."
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:317
+#, php-format
+msgid "Menu item updated. <a href=\"%s\">View menu item &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:320
+msgid "Menu item updated."
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:321
+#, php-format
+msgid "Menu item restored to revision from %s"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:322
+#, php-format
+msgid "Menu item published. <a href=\"%s\">View menu item &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:323
+msgid "Menu item saved."
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:324
+#, php-format
+msgid ""
+"Menu item submitted. <a target=\"_blank\" href=\"%s\">Preview menu item "
+"&rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:325
+#, php-format
+msgid ""
+"Menu item scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview menu item &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:326
+#, php-format
+msgid ""
+"Menu item draft updated. <a target=\"_blank\" href=\"%s\">Preview menu item "
+"&rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-menu.php:350
+msgid "Enter menu item title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:26
+#: ../backend/posttypes/posttype-slide.php:27
+msgid "Slides"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:28
+msgid "Slide"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:29
+msgid "All Slides"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:30
+#: ../backend/posttypes/posttype-slide.php:31
+msgid "Add New Slide"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:32
+msgid "Edit Slide"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:33
+msgid "New Slide"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:34
+msgid "View Slide"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:35
+msgid "Search Slides"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:36
+msgid "No Slides"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:37
+msgid "No Slides Found in Trash"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:140
+msgid "Slide Options"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:152
+msgid "Caption"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:153
+msgid "Add caption of the slide."
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:206
+msgid "Slide Title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:207
+msgid "Slide Caption"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:208
+msgid "Slide URL"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:302
+#: ../backend/posttypes/posttype-slide.php:305
+msgid "Slide updated."
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:306
+#, php-format
+msgid "Slide restored to revision from %s"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:307
+msgid "Slide published."
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:308
+msgid "Slide saved."
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:309
+msgid "Slide submitted."
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:310
+#, php-format
+msgid "Slide scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:311
+msgid "Slide draft updated"
+msgstr ""
+
+#: ../backend/posttypes/posttype-slide.php:335
+msgid "Enter slide title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:28
+msgid "Video"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:29
+msgid "All Videos"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:30
+#: ../backend/posttypes/posttype-video.php:31
+msgid "Add New Video"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:32
+msgid "Edit Video"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:33
+msgid "New Video"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:34
+msgid "View Video"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:35
+msgid "Search Videos"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:36
+msgid "No Videos"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:37
+msgid "No Videos Found in Trash"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:144
+msgid "Video Options"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:192
+msgid "Video Title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:240
+#, php-format
+msgid "Video updated. <a href=\"%s\">View video &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:243
+msgid "Video updated."
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:244
+#, php-format
+msgid "Video restored to revision from %s"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:245
+#, php-format
+msgid "Video published. <a href=\"%s\">View video &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:246
+msgid "Video saved."
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:247
+#, php-format
+msgid ""
+"Video submitted. <a target=\"_blank\" href=\"%s\">Preview Video &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:248
+#, php-format
+msgid ""
+"Video scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview video &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:249
+#, php-format
+msgid ""
+"Video draft updated. <a target=\"_blank\" href=\"%s\">Preview video &rsaquo;"
+"</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-video.php:273
+msgid "Enter video title"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:26
+#: ../backend/posttypes/posttype-wine.php:27
+#: ../backend/posttypes/posttype-wine.php:28
+msgid "Wines"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:29
+msgid "All Wines"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:30
+#: ../backend/posttypes/posttype-wine.php:31
+msgid "Add New Wine"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:32
+msgid "Edit Wine"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:33
+msgid "New Wine"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:34
+msgid "View Wine"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:35
+msgid "Search Wines"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:36
+msgid "No Wines"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:37
+msgid "No Wines Found in Trash"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:143
+msgid "Wine Options"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:150
+msgid ""
+"Fill the prices of the wine. Fill price with currency symbol. Example "
+"format: Bottle 0,5l ... $25"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:157
+msgid "Fill the description of the wine."
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:163
+msgid "Fill the number of the wine."
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:317
+#, php-format
+msgid "Wine updated. <a href=\"%s\">View wine &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:320
+msgid "Wine updated."
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:321
+#, php-format
+msgid "Wine restored to revision from %s"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:322
+#, php-format
+msgid "Wine published. <a href=\"%s\">View wine &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:323
+msgid "Wine saved."
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:324
+#, php-format
+msgid ""
+"Wine submitted. <a target=\"_blank\" href=\"%s\">Preview wine &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:325
+#, php-format
+msgid ""
+"Wine scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\">Preview wine &rsaquo;</a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:326
+#, php-format
+msgid ""
+"Wine draft updated. <a target=\"_blank\" href=\"%s\">Preview wine &rsaquo;</"
+"a>"
+msgstr ""
+
+#: ../backend/posttypes/posttype-wine.php:350
+msgid "Enter wine title"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-breakfast.php:26
+#: ../backend/taxonomies/taxonomy-breakfast.php:43
+msgid "Breakfast Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-breakfast.php:27
+msgid "Breakfast Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-breakfast.php:28
+msgid "Search Breakfast Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-breakfast.php:29
+msgid "Popular Breakfast Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-breakfast.php:30
+msgid "All Breakfast Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-breakfast.php:31
+msgid "Parent Breakfast Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-breakfast.php:32
+msgid "Parent Breakfast Category:"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-breakfast.php:33
+msgid "Edit Breakfast Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-breakfast.php:34
+msgid "Update Breakfast Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-breakfast.php:35
+msgid "Add New Breakfast Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-breakfast.php:36
+msgid "New Breakfast Category Name"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-dinner.php:26
+#: ../backend/taxonomies/taxonomy-dinner.php:43
+msgid "Dinner Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-dinner.php:27
+msgid "Dinner Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-dinner.php:28
+msgid "Search Dinner Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-dinner.php:29
+msgid "Popular Dinner Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-dinner.php:30
+msgid "All Dinner Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-dinner.php:31
+msgid "Parent Dinner Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-dinner.php:32
+msgid "Parent Dinner Category:"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-dinner.php:33
+msgid "Edit Dinner Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-dinner.php:34
+msgid "Update Dinner Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-dinner.php:35
+msgid "Add New Dinner Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-dinner.php:36
+msgid "New Dinner Category Name"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-drink.php:26
+#: ../backend/taxonomies/taxonomy-drink.php:43
+msgid "Drink Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-drink.php:27
+msgid "Drink Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-drink.php:28
+msgid "Search Drink Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-drink.php:29
+msgid "Popular Drink Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-drink.php:30
+msgid "All Drink Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-drink.php:31
+msgid "Parent Drink Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-drink.php:32
+msgid "Parent Drink Category:"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-drink.php:33
+msgid "Edit Drink Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-drink.php:34
+msgid "Update Drink Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-drink.php:35
+msgid "Add New Drink Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-drink.php:36
+msgid "New Drink Category Name"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-event.php:26
+#: ../backend/taxonomies/taxonomy-gallery.php:26
+#: ../backend/taxonomies/taxonomy-video.php:26
+msgid "Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-event.php:27
+msgid "Event Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-event.php:28
+msgid "Search Event Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-event.php:29
+msgid "Popular Event Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-event.php:30
+msgid "All Event Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-event.php:31
+msgid "Parent Event Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-event.php:32
+msgid "Parent Event Category:"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-event.php:33
+msgid "Edit Event Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-event.php:34
+msgid "Update Event Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-event.php:35
+msgid "Add New Event Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-event.php:36
+msgid "New Event Category Name"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-event.php:43
+#: ../backend/widgets/widget-categories-event.php:89
+msgid "Event Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-food.php:26
+#: ../backend/taxonomies/taxonomy-food.php:43
+msgid "Food Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-food.php:27
+msgid "Food Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-food.php:28
+msgid "Search Food Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-food.php:29
+msgid "Popular Food Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-food.php:30
+msgid "All Food Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-food.php:31
+msgid "Parent Food Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-food.php:32
+msgid "Parent Food Category:"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-food.php:33
+msgid "Edit Food Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-food.php:34
+msgid "Update Food Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-food.php:35
+msgid "Add New Food Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-food.php:36
+msgid "New Food Category Name"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-gallery.php:27
+msgid "Gallery Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-gallery.php:28
+msgid "Search Gallery Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-gallery.php:29
+msgid "Popular Gallery Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-gallery.php:30
+msgid "All Gallery Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-gallery.php:31
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-gallery.php:32
+msgid "Parent Gallery Category:"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-gallery.php:33
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-gallery.php:34
+msgid "Update Gallery Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-gallery.php:35
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-gallery.php:36
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-gallery.php:43
+#: ../backend/widgets/widget-categories-gallery.php:89
+msgid "Gallery Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-lunch.php:26
+#: ../backend/taxonomies/taxonomy-lunch.php:43
+msgid "Lunch Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-lunch.php:27
+msgid "Lunch Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-lunch.php:28
+msgid "Search Lunch Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-lunch.php:29
+msgid "Popular Lunch Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-lunch.php:30
+msgid "All Lunch Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-lunch.php:31
+msgid "Parent Lunch Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-lunch.php:32
+msgid "Parent Lunch Category:"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-lunch.php:33
+msgid "Edit Lunch Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-lunch.php:34
+msgid "Update Lunch Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-lunch.php:35
+msgid "Add New Lunch Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-lunch.php:36
+msgid "New Lunch Category Name"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-menu.php:28
+msgid "Search Menus"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-menu.php:29
+msgid "Popular Menus"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-menu.php:30
+msgid "All Menus"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-menu.php:31
+msgid "Parent Menu"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-menu.php:32
+msgid "Parent Menu:"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-menu.php:33
+msgid "Edit Menu"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-menu.php:34
+msgid "Update Menu"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-menu.php:35
+msgid "Add New Menu"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-menu.php:36
+msgid "New Menu Name"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-video.php:27
+msgid "Video Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-video.php:28
+msgid "Search Video Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-video.php:29
+msgid "Popular Video Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-video.php:30
+msgid "All Video Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-video.php:31
+msgid "Parent Video Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-video.php:32
+msgid "Parent Video Category:"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-video.php:33
+msgid "Edit Video Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-video.php:34
+msgid "Update Video Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-video.php:35
+msgid "Add New Video Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-video.php:36
+msgid "New Video Category Name"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-video.php:43
+#: ../backend/widgets/widget-categories-video.php:89
+msgid "Video Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-wine.php:26
+#: ../backend/taxonomies/taxonomy-wine.php:43
+msgid "Wine Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-wine.php:27
+msgid "Wine Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-wine.php:28
+msgid "Search Wine Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-wine.php:29
+msgid "Popular Wine Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-wine.php:30
+msgid "All Wine Categories"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-wine.php:31
+msgid "Parent Wine Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-wine.php:32
+msgid "Parent Wine Category:"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-wine.php:33
+msgid "Edit Wine Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-wine.php:34
+msgid "Update Wine Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-wine.php:35
+msgid "Add New Wine Category"
+msgstr ""
+
+#: ../backend/taxonomies/taxonomy-wine.php:36
+msgid "New Wine Category Name"
+msgstr ""
+
+#: ../backend/widgets/widget-about.php:25
+msgid "Widget that displays information about you."
+msgstr ""
+
+#: ../backend/widgets/widget-about.php:33
+msgid "Linguini: About"
+msgstr ""
+
+#: ../backend/widgets/widget-about.php:41
+#: ../backend/widgets/widget-categories-event.php:46
+#: ../backend/widgets/widget-categories-gallery.php:46
+#: ../backend/widgets/widget-categories-video.php:46
+#: ../backend/widgets/widget-opening-hours.php:40
+#: ../backend/widgets/widget-recent-events.php:40
+#: ../backend/widgets/widget-recent-posts.php:40
+#: ../backend/widgets/widget-recent-tweet.php:40
+#: ../backend/widgets/widget-recent-videos.php:40
+#: ../backend/widgets/widget-subpages.php:62
+#: ../backend/widgets/widget-tweets.php:40
+msgid "widget_title"
+msgstr ""
+
+#: ../backend/widgets/widget-about.php:42
+#: ../backend/widgets/widget-opening-hours.php:41
+msgid "widget_content"
+msgstr ""
+
+#: ../backend/widgets/widget-about.php:43
+msgid "continue_button_text"
+msgstr ""
+
+#: ../backend/widgets/widget-about.php:44
+msgid "continue_button_link"
+msgstr ""
+
+#: ../backend/widgets/widget-about.php:53
+#: ../backend/widgets/widget-opening-hours.php:50
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../backend/widgets/widget-about.php:92
+msgid "About Us"
+msgstr ""
+
+#: ../backend/widgets/widget-about.php:93
+msgid "More about us"
+msgstr ""
+
+#: ../backend/widgets/widget-about.php:120
+#: ../backend/widgets/widget-opening-hours.php:157
+msgid "Content"
+msgstr ""
+
+#: ../backend/widgets/widget-about.php:132
+msgid "Show button?"
+msgstr ""
+
+#: ../backend/widgets/widget-about.php:140
+msgid "Button text"
+msgstr ""
+
+#: ../backend/widgets/widget-about.php:150
+msgid "Button URL"
+msgstr ""
+
+#: ../backend/widgets/widget-categories-event.php:25
+msgid ""
+"Widget that displays the categories of events. Widget only appears if there "
+"are categories."
+msgstr ""
+
+#: ../backend/widgets/widget-categories-event.php:33
+msgid "Linguini: Event Categories"
+msgstr ""
+
+#: ../backend/widgets/widget-categories-gallery.php:25
+msgid ""
+"Widget that displays the categories of gallery. Widget only appears if there "
+"are categories."
+msgstr ""
+
+#: ../backend/widgets/widget-categories-gallery.php:33
+msgid "Linguini: Gallery Categories"
+msgstr ""
+
+#: ../backend/widgets/widget-categories-video.php:25
+msgid ""
+"Widget that displays the categories of videos. Widget only appears if there "
+"are categories."
+msgstr ""
+
+#: ../backend/widgets/widget-categories-video.php:33
+msgid "Linguini: Video Categories"
+msgstr ""
+
+#: ../backend/widgets/widget-opening-hours.php:25
+msgid "Widget that displays opening hours."
+msgstr ""
+
+#: ../backend/widgets/widget-opening-hours.php:32
+msgid "Linguini: Opening Hours"
+msgstr ""
+
+#: ../backend/widgets/widget-opening-hours.php:120
+msgid "Opening hours"
+msgstr ""
+
+#: ../backend/widgets/widget-opening-hours.php:167
+msgid "Monday's time"
+msgstr ""
+
+#: ../backend/widgets/widget-opening-hours.php:177
+msgid "Tuesday's time"
+msgstr ""
+
+#: ../backend/widgets/widget-opening-hours.php:187
+msgid "Wednesday's time"
+msgstr ""
+
+#: ../backend/widgets/widget-opening-hours.php:197
+msgid "Thursday's time"
+msgstr ""
+
+#: ../backend/widgets/widget-opening-hours.php:207
+msgid "Friday's time"
+msgstr ""
+
+#: ../backend/widgets/widget-opening-hours.php:217
+msgid "Saturday's time"
+msgstr ""
+
+#: ../backend/widgets/widget-opening-hours.php:227
+msgid "Sunday's time"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-events.php:25
+msgid "Widget that displays recent events."
+msgstr ""
+
+#: ../backend/widgets/widget-recent-events.php:32
+msgid "Linguini: Recent Events"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-events.php:138
+msgid "Recent Events"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-events.php:162
+msgid "Number of Events"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-posts.php:25
+msgid "Widget that displays recent posts."
+msgstr ""
+
+#: ../backend/widgets/widget-recent-posts.php:32
+msgid "Linguini: Recent Posts"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-posts.php:104
+msgid "Recent Posts"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-posts.php:128
+msgid "Number of Posts"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-tweet.php:25
+msgid ""
+"Widget that displays recent tweet from the Twitter account. Required "
+"settings of connection to Twitter API in Appearance > Theme Options > "
+"Socials."
+msgstr ""
+
+#: ../backend/widgets/widget-recent-tweet.php:32
+msgid "Linguini: Recent Tweet"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-tweet.php:44
+#: ../backend/widgets/widget-tweets.php:45
+msgid "twitter_button_text"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-tweet.php:78
+#: ../backend/widgets/widget-tweets.php:79
+msgid "ago"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-tweet.php:122
+msgid "Recent Tweet"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-tweet.php:125
+#: ../backend/widgets/widget-tweets.php:128
+msgid "Follow Us on Twitter"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-tweet.php:150
+#: ../backend/widgets/widget-tweets.php:154
+msgid "Twitter Username"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-tweet.php:162
+#: ../backend/widgets/widget-tweets.php:176
+msgid "Display Button"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-tweet.php:170
+#: ../backend/widgets/widget-tweets.php:184
+msgid "Button Text"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-videos.php:25
+msgid "Widget that displays recent videos."
+msgstr ""
+
+#: ../backend/widgets/widget-recent-videos.php:32
+msgid "Linguini: Recent Videos"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-videos.php:101
+msgid "Recent Videos"
+msgstr ""
+
+#: ../backend/widgets/widget-recent-videos.php:125
+msgid "Number of Videos"
+msgstr ""
+
+#: ../backend/widgets/widget-subpages.php:25
+msgid ""
+"Widget that displays the sub-pages of the current page. Widget only appears "
+"if there are sub-pages of the current page."
+msgstr ""
+
+#: ../backend/widgets/widget-subpages.php:33
+msgid "Linguini: Subpages"
+msgstr ""
+
+#: ../backend/widgets/widget-subpages.php:85
+msgid "Sub Pages"
+msgstr ""
+
+#: ../backend/widgets/widget-tweets.php:25
+msgid ""
+"Widget that displays latest tweets from the Twitter account. Required "
+"settings of connection to Twitter API in Appearance > Theme Options > "
+"Socials."
+msgstr ""
+
+#: ../backend/widgets/widget-tweets.php:32
+msgid "Linguini: Tweets"
+msgstr ""
+
+#: ../backend/widgets/widget-tweets.php:124
+msgid "Latest Tweets"
+msgstr ""
+
+#: ../backend/widgets/widget-tweets.php:164
+msgid "Number of Tweets"
+msgstr ""
